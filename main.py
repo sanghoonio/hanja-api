@@ -1,9 +1,9 @@
 import os
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query, Header, Depends
-from fastapi.responses import FileResponse, JSONResponse, Response
+from fastapi.responses import JSONResponse, Response, StreamingResponse
 from typing import Literal, Optional
-from generate_wallpaper import generate_wallpaper, IPHONE_RESOLUTIONS
+from generate_wallpaper import generate_png_bytes, generate_svg_string, generate_xml_string, get_character_data, IPHONE_RESOLUTIONS, BASE_RESOLUTION
 from shortcut_generator import generate_shortcut
 
 # Load environment variables from .env file
@@ -23,10 +23,9 @@ app = FastAPI(
     title="Hanja API",
     description="Generate wallpapers or data files with Chinese/Hanja characters.",
     version="1.0.0",
+    openapi_version="3.1.0",
+    root_path="/hanja-api"
 )
-
-OUTPUT_DIR = "generated_wallpapers"
-os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 @app.get("/wallpaper",
          summary="Generate a character wallpaper or data file",
@@ -39,7 +38,7 @@ def create_wallpaper_endpoint(
         description="The type of output to generate.",
     ),
     character_list: Literal["hsk", "hanja"] = Query(
-        "hsk",
+        "hanja",
         description="The character set to use.",
     ),
     character_id: Optional[int] = Query(
@@ -66,32 +65,37 @@ def create_wallpaper_endpoint(
             detail=f"Invalid iPhone model. Please choose from: {', '.join(IPHONE_RESOLUTIONS.keys())}",
         )
 
-    # Generate a unique filename
-    random_id = os.urandom(4).hex()
-    output_filename = f"wallpaper_{character_list}_{character_id or random_id}.{output_type}"
-    output_path = os.path.join(OUTPUT_DIR, output_filename)
-
     try:
-        message = generate_wallpaper(
-            output_path=output_path,
-            character_id=character_id,
-            iphone_model=iphone_model,
-            output_type=output_type,
-            character_list=character_list,
-        )
+        char_data = get_character_data(character_list, character_id)
+        width, height = IPHONE_RESOLUTIONS[iphone_model]
+        scale_factor = width / BASE_RESOLUTION[0]
+        
+        if output_type == "png":
+            img_bytes = generate_png_bytes(char_data, width, height, scale_factor, character_list)
+            return StreamingResponse(
+                img_bytes, 
+                media_type="image/png",
+                headers={"Content-Disposition": f"inline; filename=wallpaper_{character_list}_{char_data['id']}.png"}
+            )
+        elif output_type == "svg":
+            svg_string = generate_svg_string(char_data, width, height, scale_factor, character_list)
+            return Response(
+                content=svg_string,
+                media_type="image/svg+xml",
+                headers={"Content-Disposition": f"inline; filename=wallpaper_{character_list}_{char_data['id']}.svg"}
+            )
+        elif output_type == "xml":
+            xml_string = generate_xml_string(char_data, width, height, iphone_model, character_list)
+            return Response(
+                content=xml_string,
+                media_type="application/xml",
+                headers={"Content-Disposition": f"inline; filename=wallpaper_{character_list}_{char_data['id']}.xml"}
+            )
+            
     except ValueError as e:
         raise HTTPException(status_code=404, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An unexpected error occurred: {e}")
-
-    if os.path.exists(output_path):
-        return FileResponse(
-            output_path,
-            media_type=f"image/{output_type}" if output_type != 'xml' else 'application/xml',
-            filename=output_filename
-        )
-    else:
-        raise HTTPException(status_code=500, detail="Failed to generate the file.")
 
 @app.get("/models",
          summary="List available iPhone models",
@@ -166,3 +170,4 @@ if __name__ == "__main__":
     print("Starting FastAPI server...")
     print("Access the API documentation at http://127.0.0.1:8000/docs")
     uvicorn.run(app, host="127.0.0.1", port=8000)
+    
