@@ -1,0 +1,3504 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "character": "的",
+      "pinyin": "de",
+      "korean": "",
+      "definition": "of; ~'s (possessive particle)"
+    },
+    {
+      "id": 1,
+      "character": "一",
+      "pinyin": "yī",
+      "korean": "",
+      "definition": "one; a"
+    },
+    {
+      "id": 2,
+      "character": "是",
+      "pinyin": "shì",
+      "korean": "",
+      "definition": "is; are; am; yes; to be"
+    },
+    {
+      "id": 3,
+      "character": "不",
+      "pinyin": "bù",
+      "korean": "",
+      "definition": "not; no"
+    },
+    {
+      "id": 4,
+      "character": "了",
+      "pinyin": "le",
+      "korean": "",
+      "definition": "completed action marker"
+    },
+    {
+      "id": 5,
+      "character": "在",
+      "pinyin": "zài",
+      "korean": "",
+      "definition": "at; in; to exist"
+    },
+    {
+      "id": 6,
+      "character": "人",
+      "pinyin": "rén",
+      "korean": "",
+      "definition": "person; people; man"
+    },
+    {
+      "id": 7,
+      "character": "有",
+      "pinyin": "yǒu",
+      "korean": "",
+      "definition": "to have; there is; there are"
+    },
+    {
+      "id": 8,
+      "character": "我",
+      "pinyin": "wǒ",
+      "korean": "",
+      "definition": "I; me; my"
+    },
+    {
+      "id": 9,
+      "character": "他",
+      "pinyin": "tā",
+      "korean": "",
+      "definition": "he; him"
+    },
+    {
+      "id": 10,
+      "character": "这",
+      "pinyin": "zhè",
+      "korean": "",
+      "definition": "this; these"
+    },
+    {
+      "id": 11,
+      "character": "个",
+      "pinyin": "gè",
+      "korean": "",
+      "definition": "individual; this; that"
+    },
+    {
+      "id": 12,
+      "character": "们",
+      "pinyin": "men",
+      "korean": "",
+      "definition": "plural marker for pronouns"
+    },
+    {
+      "id": 13,
+      "character": "中",
+      "pinyin": "zhōng",
+      "korean": "",
+      "definition": "within; among; in; middle; center"
+    },
+    {
+      "id": 14,
+      "character": "来",
+      "pinyin": "lái",
+      "korean": "",
+      "definition": "to come; to arrive"
+    },
+    {
+      "id": 15,
+      "character": "上",
+      "pinyin": "shàng",
+      "korean": "",
+      "definition": "on; upon; above; upper"
+    },
+    {
+      "id": 16,
+      "character": "大",
+      "pinyin": "dà",
+      "korean": "",
+      "definition": "big; huge; large"
+    },
+    {
+      "id": 17,
+      "character": "为",
+      "pinyin": "wèi",
+      "korean": "",
+      "definition": "because of; for; to"
+    },
+    {
+      "id": 18,
+      "character": "和",
+      "pinyin": "hé",
+      "korean": "",
+      "definition": "and; together with; with"
+    },
+    {
+      "id": 19,
+      "character": "国",
+      "pinyin": "guó",
+      "korean": "",
+      "definition": "country; nation; state"
+    },
+    {
+      "id": 20,
+      "character": "地",
+      "pinyin": "de, dì",
+      "korean": "",
+      "definition": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct; earth; ground; field; place; land"
+    },
+    {
+      "id": 21,
+      "character": "到",
+      "pinyin": "dào",
+      "korean": "",
+      "definition": "to; until; to arrive"
+    },
+    {
+      "id": 22,
+      "character": "以",
+      "pinyin": "yǐ",
+      "korean": "",
+      "definition": "to use; by means of; according to"
+    },
+    {
+      "id": 23,
+      "character": "说",
+      "pinyin": "shuō",
+      "korean": "",
+      "definition": "to speak; to say"
+    },
+    {
+      "id": 24,
+      "character": "时",
+      "pinyin": "shí",
+      "korean": "",
+      "definition": "time; when; hour; season"
+    },
+    {
+      "id": 25,
+      "character": "要",
+      "pinyin": "yào",
+      "korean": "",
+      "definition": "to want; to ask for; will; going to"
+    },
+    {
+      "id": 26,
+      "character": "就",
+      "pinyin": "jiù",
+      "korean": "",
+      "definition": "at once; right away; only; just (emphasis); as early as; already; as soon as; then; in that case; as many as; even if; to approach; to move towards; to undertake; to engage in; to suffer; subjected to; to accomplish; to take advantage of; to go with (of foods); with regard to; concerning"
+    },
+    {
+      "id": 27,
+      "character": "出",
+      "pinyin": "chū",
+      "korean": "",
+      "definition": "to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to happen; (a measure word for dramas, plays, or operas)"
+    },
+    {
+      "id": 28,
+      "character": "会",
+      "pinyin": "huì",
+      "korean": "",
+      "definition": "can; be able to; will"
+    },
+    {
+      "id": 29,
+      "character": "可",
+      "pinyin": "kě",
+      "korean": "",
+      "definition": "can; may; able to; to approve; to permit"
+    },
+    {
+      "id": 30,
+      "character": "也",
+      "pinyin": "yě",
+      "korean": "",
+      "definition": "also; too"
+    },
+    {
+      "id": 31,
+      "character": "你",
+      "pinyin": "nǐ",
+      "korean": "",
+      "definition": "you (singular)"
+    },
+    {
+      "id": 32,
+      "character": "对",
+      "pinyin": "duì",
+      "korean": "",
+      "definition": "right; correct; couple; pair"
+    },
+    {
+      "id": 33,
+      "character": "生",
+      "pinyin": "shēng",
+      "korean": "",
+      "definition": "to be born; to give birth; life; to grow"
+    },
+    {
+      "id": 34,
+      "character": "能",
+      "pinyin": "néng",
+      "korean": "",
+      "definition": "can; be able to; permitted to"
+    },
+    {
+      "id": 35,
+      "character": "而",
+      "pinyin": "ér",
+      "korean": "",
+      "definition": "and; as well as; and so; but (not); yet (not); (shows causal relation); (shows change of state); (shows contrast)"
+    },
+    {
+      "id": 36,
+      "character": "子",
+      "pinyin": "zǐ",
+      "korean": "",
+      "definition": "child; son"
+    },
+    {
+      "id": 37,
+      "character": "那",
+      "pinyin": "nà",
+      "korean": "",
+      "definition": "that; those"
+    },
+    {
+      "id": 38,
+      "character": "得",
+      "pinyin": "dé, de, děi",
+      "korean": "",
+      "definition": "to obtain; to get; to gain; to catch (a disease); proper; suitable; proud; contented; to allow; to permit; ready; finished; (structural particle: used after a verb to describe the action); must; have to"
+    },
+    {
+      "id": 39,
+      "character": "于",
+      "pinyin": "yú",
+      "korean": "",
+      "definition": "in; at; to; from; by; than; out of"
+    },
+    {
+      "id": 40,
+      "character": "着",
+      "pinyin": "zhe, zhuó, zhāo, zháo",
+      "korean": "",
+      "definition": "particle attached after verb to indicate action in progress, like -ing ending; to touch; to come in contact with; to feel; to be affected by; to catch fire; to fall asleep; to burn"
+    },
+    {
+      "id": 41,
+      "character": "下",
+      "pinyin": "xià",
+      "korean": "",
+      "definition": "down; downwards; below; lower; later; next (week etc); second (of two parts); to decline; to go down"
+    },
+    {
+      "id": 42,
+      "character": "给",
+      "pinyin": "gěi",
+      "korean": "",
+      "definition": "to; for; for the benefit of; to give; to allow; to do sth (for sb); (passive particle)"
+    },
+    {
+      "id": 43,
+      "character": "等",
+      "pinyin": "děng",
+      "korean": "",
+      "definition": "to wait for; to await; class; rank; grade; equal to; same as; and so on; and so forth; et cetera; after; as soon as; once"
+    },
+    {
+      "id": 44,
+      "character": "与",
+      "pinyin": "yǔ",
+      "korean": "",
+      "definition": "and; to give; together with"
+    },
+    {
+      "id": 45,
+      "character": "年",
+      "pinyin": "nián",
+      "korean": "",
+      "definition": "year"
+    },
+    {
+      "id": 46,
+      "character": "过",
+      "pinyin": "guò",
+      "korean": "",
+      "definition": "to cross; to go over; to pass (time); to celebrate (a holiday); to live; to get along; (experienced action marker)"
+    },
+    {
+      "id": 47,
+      "character": "好",
+      "pinyin": "hǎo",
+      "korean": "",
+      "definition": "good; well"
+    },
+    {
+      "id": 48,
+      "character": "多",
+      "pinyin": "duō",
+      "korean": "",
+      "definition": "many; much; a lot of; numerous; multi-"
+    },
+    {
+      "id": 49,
+      "character": "么",
+      "pinyin": "me",
+      "korean": "",
+      "definition": "interrogative particle"
+    },
+    {
+      "id": 50,
+      "character": "天",
+      "pinyin": "tiān",
+      "korean": "",
+      "definition": "day; sky; heaven"
+    },
+    {
+      "id": 51,
+      "character": "学",
+      "pinyin": "xué",
+      "korean": "",
+      "definition": "to learn; to study; science; -ology"
+    },
+    {
+      "id": 52,
+      "character": "家",
+      "pinyin": "jiā",
+      "korean": "",
+      "definition": "home; family; classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for specialists in some activity such as musician or revolutionary, corresponding to English -ist, -er, -ary or -ian"
+    },
+    {
+      "id": 53,
+      "character": "里",
+      "pinyin": "lǐ",
+      "korean": "",
+      "definition": "inside; lining; interior; internal"
+    },
+    {
+      "id": 54,
+      "character": "后",
+      "pinyin": "hòu",
+      "korean": "",
+      "definition": "back; behind; rear; afterwards; after; later"
+    },
+    {
+      "id": 55,
+      "character": "小",
+      "pinyin": "xiǎo",
+      "korean": "",
+      "definition": "small; tiny; few; young"
+    },
+    {
+      "id": 56,
+      "character": "心",
+      "pinyin": "xīn",
+      "korean": "",
+      "definition": "heart; mind; intention; center; core"
+    },
+    {
+      "id": 57,
+      "character": "前",
+      "pinyin": "qián",
+      "korean": "",
+      "definition": "front; forward; ahead; first; top (followed by a number); future; ago; before; former; formerly"
+    },
+    {
+      "id": 58,
+      "character": "脸",
+      "pinyin": "liǎn",
+      "korean": "",
+      "definition": "face"
+    },
+    {
+      "id": 59,
+      "character": "面",
+      "pinyin": "miàn",
+      "korean": "",
+      "definition": "face; side; surface; aspect; top; classifier for flat surfaces such as drums, mirrors, flags etc"
+    },
+    {
+      "id": 60,
+      "character": "同",
+      "pinyin": "tóng",
+      "korean": "",
+      "definition": "like; same; similar; together; alike; with"
+    },
+    {
+      "id": 61,
+      "character": "道",
+      "pinyin": "dào",
+      "korean": "",
+      "definition": "direction; way; road; path; principle; truth; morality; reason; skill; method; Dao (of Daoism); to say; to speak; to talk; classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process"
+    },
+    {
+      "id": 62,
+      "character": "没",
+      "pinyin": "méi",
+      "korean": "",
+      "definition": "not have; there is not; to not be"
+    },
+    {
+      "id": 63,
+      "character": "自",
+      "pinyin": "zì",
+      "korean": "",
+      "definition": "from; self; oneself; since"
+    },
+    {
+      "id": 64,
+      "character": "看",
+      "pinyin": "kàn",
+      "korean": "",
+      "definition": "to see; to look at; to read; to watch; to consider; to regard as; to view as; to treat as; to judge; (after repeated verb) to have a try at"
+    },
+    {
+      "id": 65,
+      "character": "只",
+      "pinyin": "zhǐ",
+      "korean": "",
+      "definition": "only; merely; just; but"
+    },
+    {
+      "id": 66,
+      "character": "主",
+      "pinyin": "zhǔ",
+      "korean": "",
+      "definition": "owner; master; host; individual or party concerned; God; Lord; main; to indicate or signify; trump"
+    },
+    {
+      "id": 67,
+      "character": "公",
+      "pinyin": "gōng",
+      "korean": "",
+      "definition": "public; collectively owned; common; international (e.g. high seas, metric system, calendar); make public; fair; just; Duke, highest of five orders of nobility 五等爵位; honorable (gentlemen); father-in-law; male (animal)"
+    },
+    {
+      "id": 68,
+      "character": "从",
+      "pinyin": "cóng",
+      "korean": "",
+      "definition": "from; via; passing through; through (a gap); past; ever (followed by negative, meaning never); (formerly pr. and meaning) to follow; to comply with; to obey; to join; to engage in; adopting some mode of action or attitude; follower; retainer; accessory; accomplice; related by common paternal grandfather or earlier ancestor; surname Cong"
+    },
+    {
+      "id": 69,
+      "character": "想",
+      "pinyin": "xiǎng",
+      "korean": "",
+      "definition": "to think; to believe; to suppose; to wish; to want; to miss"
+    },
+    {
+      "id": 70,
+      "character": "作",
+      "pinyin": "zuò",
+      "korean": "",
+      "definition": "to do; to grow; to write or compose; to pretend; to regard as; to feel; writings; work"
+    },
+    {
+      "id": 71,
+      "character": "吧",
+      "pinyin": "ba",
+      "korean": "",
+      "definition": "(modal particle indicating polite suggestion); ...right?; ...OK?"
+    },
+    {
+      "id": 72,
+      "character": "文",
+      "pinyin": "wén",
+      "korean": "",
+      "definition": "language; culture; writing; formal; literary; gentle; (old) classifier for coins; Kangxi radical 67"
+    },
+    {
+      "id": 73,
+      "character": "无",
+      "pinyin": "wú",
+      "korean": "",
+      "definition": "not to have; no; none; not; to lack; un-"
+    },
+    {
+      "id": 74,
+      "character": "开",
+      "pinyin": "kāi",
+      "korean": "",
+      "definition": "to open; to start; to turn on; to boil; to write out (a prescription, check, invoice etc); to operate (a vehicle); to hold (a meeting, party etc); to begin or start; to initiate; to found; to set up; to open up (for development); to part; to lift (a ban or restriction); to cut; to separate; to divide; to split; to bloom (of flowers); to feel happy or cheerful; (dialect) to go away; (of a cheque) to bounce"
+    },
+    {
+      "id": 75,
+      "character": "手",
+      "pinyin": "shǒu",
+      "korean": "",
+      "definition": "hand; (formal) to hold; person engaged in certain types of work; person skilled in certain types of work; personal(ly); convenient; classifier for skill"
+    },
+    {
+      "id": 76,
+      "character": "十",
+      "pinyin": "shí",
+      "korean": "",
+      "definition": "ten; 10"
+    },
+    {
+      "id": 77,
+      "character": "用",
+      "pinyin": "yòng",
+      "korean": "",
+      "definition": "to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore"
+    },
+    {
+      "id": 78,
+      "character": "行",
+      "pinyin": "xíng, háng",
+      "korean": "",
+      "definition": "to walk; to go; to travel; a visit; temporary; makeshift; current; in circulation; to do; to perform; to conduct; to carry out; to implement; to execute; to manage; to be all right; O.K.; will do; behavior; conduct; a row or line; a trade; a profession; professional; relating to a trade or profession"
+    },
+    {
+      "id": 79,
+      "character": "方",
+      "pinyin": "fāng",
+      "korean": "",
+      "definition": "square; quadrilateral; power (such as cube of a number); practical; upright; honest; fair and square; direction; side; party (to a contract, dispute etc); place; method; prescription (medicine); upright or honest; just when; only or just; classifier for square things; abbr. for square or cubic meter"
+    },
+    {
+      "id": 80,
+      "character": "又",
+      "pinyin": "yòu",
+      "korean": "",
+      "definition": "(once) again; also; both... and...; and yet; (used for emphasis) anyway"
+    },
+    {
+      "id": 81,
+      "character": "如",
+      "pinyin": "rú",
+      "korean": "",
+      "definition": "as; as if; such as"
+    },
+    {
+      "id": 82,
+      "character": "所",
+      "pinyin": "suǒ",
+      "korean": "",
+      "definition": "actually; place; classifier for houses, small buildings, institutions etc; that which; particle introducing a relative clause or passive"
+    },
+    {
+      "id": 83,
+      "character": "本",
+      "pinyin": "běn",
+      "korean": "",
+      "definition": "roots or stems of plants; origin; source; this; the current; root; foundation; basis; classifier for books, periodicals, files etc; originally"
+    },
+    {
+      "id": 84,
+      "character": "见",
+      "pinyin": "jiàn, xiàn",
+      "korean": "",
+      "definition": "to see; to meet; to appear (to be sth); to interview; to appear"
+    },
+    {
+      "id": 85,
+      "character": "经",
+      "pinyin": "jīng",
+      "korean": "",
+      "definition": "classics; sacred book; scripture; to pass through; to undergo; to bear; to endure; warp (textile); longitude; menstruation; channel (TCM); to deal with; to manage"
+    },
+    {
+      "id": 86,
+      "character": "头",
+      "pinyin": "tóu",
+      "korean": "",
+      "definition": "head; hair style; the top; end; beginning or end; a stub; remnant; chief; boss; side; aspect; first; leading; classifier for pigs or livestock"
+    },
+    {
+      "id": 87,
+      "character": "三",
+      "pinyin": "sān",
+      "korean": "",
+      "definition": "three; 3"
+    },
+    {
+      "id": 88,
+      "character": "已",
+      "pinyin": "yǐ",
+      "korean": "",
+      "definition": "already; to stop; then; afterwards"
+    },
+    {
+      "id": 89,
+      "character": "老",
+      "pinyin": "lǎo",
+      "korean": "",
+      "definition": "old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; venerable (person); prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person)"
+    },
+    {
+      "id": 90,
+      "character": "分",
+      "pinyin": "fēn, fèn",
+      "korean": "",
+      "definition": "to divide; to separate; to allocate; to distinguish (good and bad); part or subdivision; fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute; a point (in sports or games); 0.01 yuan (unit of money); part; share; ingredient; component"
+    },
+    {
+      "id": 91,
+      "character": "此",
+      "pinyin": "cǐ",
+      "korean": "",
+      "definition": "this; these"
+    },
+    {
+      "id": 92,
+      "character": "次",
+      "pinyin": "cì",
+      "korean": "",
+      "definition": "next in sequence; second; the second (day, time etc); secondary; vice-; sub-; infra-; inferior quality; substandard; order; sequence; hypo- (chemistry); classifier for enumerated events: time"
+    },
+    {
+      "id": 93,
+      "character": "使",
+      "pinyin": "shǐ",
+      "korean": "",
+      "definition": "to make; to cause; to enable; to use; to employ; to send; to instruct sb to do sth; envoy; messenger"
+    },
+    {
+      "id": 94,
+      "character": "样",
+      "pinyin": "yàng",
+      "korean": "",
+      "definition": "manner; pattern; way; appearance; shape"
+    },
+    {
+      "id": 95,
+      "character": "理",
+      "pinyin": "lǐ",
+      "korean": "",
+      "definition": "reason; logic; science; inner principle or structure"
+    },
+    {
+      "id": 96,
+      "character": "并",
+      "pinyin": "bìng",
+      "korean": "",
+      "definition": "and; furthermore; (not) at all; simultaneously; also; together with; to combine; to join; to merge; to combine; to amalgamate"
+    },
+    {
+      "id": 97,
+      "character": "其",
+      "pinyin": "qí",
+      "korean": "",
+      "definition": "his; her; its; theirs; that; such; it (refers to sth preceding it)"
+    },
+    {
+      "id": 98,
+      "character": "两",
+      "pinyin": "liǎng",
+      "korean": "",
+      "definition": "two; both; some; a few; tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤 (old)"
+    },
+    {
+      "id": 99,
+      "character": "当",
+      "pinyin": "dāng, dàng",
+      "korean": "",
+      "definition": "to be; to act as; manage; withstand; when; during; ought; should; match equally; equal; same; obstruct; just at (a time or place); on the spot; right; just at; at or in the very same...; to pawn; suitable; adequate; fitting; proper; to replace; to regard as; to think; to pawn"
+    },
+    {
+      "id": 100,
+      "character": "问",
+      "pinyin": "wèn",
+      "korean": "",
+      "definition": "to ask"
+    },
+    {
+      "id": 101,
+      "character": "间",
+      "pinyin": "jiān, jiàn",
+      "korean": "",
+      "definition": "between; among; within a definite time or space; room; section of a room or lateral space between two pairs of pillars; classifier for rooms; gap; to separate"
+    },
+    {
+      "id": 102,
+      "character": "题",
+      "pinyin": "tí",
+      "korean": "",
+      "definition": "topic; problem for discussion; exam question; subject; to inscribe; to mention; surname Ti"
+    },
+    {
+      "id": 103,
+      "character": "四",
+      "pinyin": "sì",
+      "korean": "",
+      "definition": "four; 4"
+    },
+    {
+      "id": 104,
+      "character": "五",
+      "pinyin": "wǔ",
+      "korean": "",
+      "definition": "five; 5"
+    },
+    {
+      "id": 105,
+      "character": "六",
+      "pinyin": "liù",
+      "korean": "",
+      "definition": "six; 6"
+    },
+    {
+      "id": 106,
+      "character": "七",
+      "pinyin": "qī",
+      "korean": "",
+      "definition": "seven; 7"
+    },
+    {
+      "id": 107,
+      "character": "八",
+      "pinyin": "bā",
+      "korean": "",
+      "definition": "eight; 8"
+    },
+    {
+      "id": 108,
+      "character": "九",
+      "pinyin": "jiǔ",
+      "korean": "",
+      "definition": "nine; 9"
+    },
+    {
+      "id": 109,
+      "character": "零",
+      "pinyin": "líng",
+      "korean": "",
+      "definition": "zero; nought; zero sign; fractional; fragmentary; odd (of numbers); (placed between two numbers to indicate a smaller quantity followed by a larger one); fraction; (in mathematics) zero (after a decimal point); to fall; to drop"
+    },
+    {
+      "id": 110,
+      "character": "爱",
+      "pinyin": "ài",
+      "korean": "",
+      "definition": "to love; affection; to be fond of; to like"
+    },
+    {
+      "id": 111,
+      "character": "爸爸",
+      "pinyin": "bàba",
+      "korean": "",
+      "definition": "(informal) father; CL:個|个[ge4],位[wei4]"
+    },
+    {
+      "id": 112,
+      "character": "杯子",
+      "pinyin": "bēizi",
+      "korean": "",
+      "definition": "cup; glass; CL:個|个[ge4],支[zhi1]"
+    },
+    {
+      "id": 113,
+      "character": "北京",
+      "pinyin": "Běijīng",
+      "korean": "",
+      "definition": "Beijing, capital of People's Republic of China; Peking; PRC government"
+    },
+    {
+      "id": 114,
+      "character": "不客气",
+      "pinyin": "bú kèqi",
+      "korean": "",
+      "definition": "you're welcome; impolite; rude; blunt; don't mention it"
+    },
+    {
+      "id": 115,
+      "character": "菜",
+      "pinyin": "cài",
+      "korean": "",
+      "definition": "dish (type of food); vegetables; vegetable; cuisine; CL:盘[pan2],道[dao4]"
+    },
+    {
+      "id": 116,
+      "character": "茶",
+      "pinyin": "chá",
+      "korean": "",
+      "definition": "tea; tea plant; CL:杯[bei1],壶[hu2]"
+    },
+    {
+      "id": 117,
+      "character": "吃",
+      "pinyin": "chī",
+      "korean": "",
+      "definition": "to eat; to consume; to eat at (a cafeteria etc); to eradicate; to destroy; to absorb; to suffer; to exhaust"
+    },
+    {
+      "id": 118,
+      "character": "出租车",
+      "pinyin": "chūzūchē",
+      "korean": "",
+      "definition": "taxi; (Taiwan) rental car"
+    },
+    {
+      "id": 119,
+      "character": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "korean": "",
+      "definition": "to make a telephone call"
+    },
+    {
+      "id": 120,
+      "character": "点",
+      "pinyin": "diǎn",
+      "korean": "",
+      "definition": "point; dot; drop; speck; o'clock; point (in space or time); to draw a dot; to check on a list; to choose; to order (food in a restaurant); to touch briefly; to hint; to light; to ignite; to pour a liquid drop by drop; (old) one fifth of a two-hour watch 更[geng1]; dot stroke in Chinese characters; classifier for items"
+    },
+    {
+      "id": 121,
+      "character": "电脑",
+      "pinyin": "diànnǎo",
+      "korean": "",
+      "definition": "computer; CL:臺|台[tai2]"
+    },
+    {
+      "id": 122,
+      "character": "电视",
+      "pinyin": "diànshì",
+      "korean": "",
+      "definition": "television; TV; CL:臺|台[tai2],個|个[ge4]"
+    },
+    {
+      "id": 123,
+      "character": "电影",
+      "pinyin": "diànyǐng",
+      "korean": "",
+      "definition": "movie; film; CL:部[bu4],片[pian4],幕[mu4],場|场[chang3]"
+    },
+    {
+      "id": 124,
+      "character": "东西",
+      "pinyin": "dōngxi",
+      "korean": "",
+      "definition": "thing; stuff; person; CL:個|个[ge4],件[jian4]"
+    },
+    {
+      "id": 125,
+      "character": "都",
+      "pinyin": "dōu",
+      "korean": "",
+      "definition": "all; both; entirely (due to) each; even; already"
+    },
+    {
+      "id": 126,
+      "character": "读",
+      "pinyin": "dú",
+      "korean": "",
+      "definition": "to read; to study; reading of a word (i.e. pronunciation), similar to 拼音[pin1 yin1]"
+    },
+    {
+      "id": 127,
+      "character": "对不起",
+      "pinyin": "duìbuqǐ",
+      "korean": "",
+      "definition": "unworthy; to let down; I'm sorry; excuse me; pardon me; if you please; sorry? (please repeat)"
+    },
+    {
+      "id": 128,
+      "character": "多少",
+      "pinyin": "duōshao",
+      "korean": "",
+      "definition": "number; amount; somewhat"
+    },
+    {
+      "id": 129,
+      "character": "儿子",
+      "pinyin": "érzi",
+      "korean": "",
+      "definition": "son"
+    },
+    {
+      "id": 130,
+      "character": "二",
+      "pinyin": "èr",
+      "korean": "",
+      "definition": "two; 2; (Beijing dialect) stupid"
+    },
+    {
+      "id": 131,
+      "character": "饭店",
+      "pinyin": "fàndiàn",
+      "korean": "",
+      "definition": "restaurant; hotel; CL:家[jia1],個|个[ge4]"
+    },
+    {
+      "id": 132,
+      "character": "飞机",
+      "pinyin": "fēijī",
+      "korean": "",
+      "definition": "airplane; CL: 架[jia4]"
+    },
+    {
+      "id": 133,
+      "character": "分钟",
+      "pinyin": "fēnzhōng",
+      "korean": "",
+      "definition": "minute"
+    },
+    {
+      "id": 134,
+      "character": "高兴",
+      "pinyin": "gāoxìng",
+      "korean": "",
+      "definition": "happy; glad; willing (to do sth); in a cheerful mood"
+    },
+    {
+      "id": 135,
+      "character": "工作",
+      "pinyin": "gōngzuò",
+      "korean": "",
+      "definition": "job; work; construction; task; CL:個|个[ge4],份[fen4],项[xiang4]"
+    },
+    {
+      "id": 136,
+      "character": "狗",
+      "pinyin": "gǒu",
+      "korean": "",
+      "definition": "dog; CL:只[zhi1],条[tiao2]"
+    },
+    {
+      "id": 137,
+      "character": "汉语",
+      "pinyin": "Hànyǔ",
+      "korean": "",
+      "definition": "Chinese language; CL:門|门[men2]"
+    },
+    {
+      "id": 138,
+      "character": "号",
+      "pinyin": "hào",
+      "korean": "",
+      "definition": "day of a month; (suffix used after) name of a ship; (ordinal) number"
+    },
+    {
+      "id": 139,
+      "character": "喝",
+      "pinyin": "hē",
+      "korean": "",
+      "definition": "to drink; (interj.) My goodness!"
+    },
+    {
+      "id": 140,
+      "character": "很",
+      "pinyin": "hěn",
+      "korean": "",
+      "definition": "(adverb of degree); quite; very; awfully"
+    },
+    {
+      "id": 141,
+      "character": "后面",
+      "pinyin": "hòumiàn",
+      "korean": "",
+      "definition": "rear; back; behind; later; afterwards"
+    },
+    {
+      "id": 142,
+      "character": "回",
+      "pinyin": "huí",
+      "korean": "",
+      "definition": "to circle; to go back; to turn around; to answer; to return; to revolve; Hui ethnic group (Chinese Muslims); time; classifier for acts of a play; section or chapter (of a classic book)"
+    },
+    {
+      "id": 143,
+      "character": "几",
+      "pinyin": "jǐ",
+      "korean": "",
+      "definition": "how much; how many; several; a few"
+    },
+    {
+      "id": 144,
+      "character": "叫",
+      "pinyin": "jiào",
+      "korean": "",
+      "definition": "to shout; to call; to order; to ask; to be called; by (indicates agent in the passive mood)"
+    },
+    {
+      "id": 145,
+      "character": "今天",
+      "pinyin": "jīntiān",
+      "korean": "",
+      "definition": "today; at the present; now"
+    },
+    {
+      "id": 146,
+      "character": "看见",
+      "pinyin": "kànjiàn",
+      "korean": "",
+      "definition": "to see; to catch sight of"
+    },
+    {
+      "id": 147,
+      "character": "块",
+      "pinyin": "kuài",
+      "korean": "",
+      "definition": "lump (of earth); chunk; piece; classifier for pieces of cloth, cake, soap etc; (coll.) yuan (unit of currency); classifier for currency units"
+    },
+    {
+      "id": 148,
+      "character": "老师",
+      "pinyin": "lǎoshī",
+      "korean": "",
+      "definition": "teacher; CL:個|个[ge4],位[wei4]"
+    },
+    {
+      "id": 149,
+      "character": "冷",
+      "pinyin": "lěng",
+      "korean": "",
+      "definition": "cold"
+    },
+    {
+      "id": 150,
+      "character": "妈妈",
+      "pinyin": "māma",
+      "korean": "",
+      "definition": "mama; mommy; mother; CL:個|个[ge4],位[wei4]"
+    },
+    {
+      "id": 151,
+      "character": "吗",
+      "pinyin": "ma",
+      "korean": "",
+      "definition": "(question tag)"
+    },
+    {
+      "id": 152,
+      "character": "买",
+      "pinyin": "mǎi",
+      "korean": "",
+      "definition": "to buy; to purchase"
+    },
+    {
+      "id": 153,
+      "character": "猫",
+      "pinyin": "māo",
+      "korean": "",
+      "definition": "cat; CL:只[zhi1]"
+    },
+    {
+      "id": 154,
+      "character": "没关系",
+      "pinyin": "méi guānxi",
+      "korean": "",
+      "definition": "it doesn't matter"
+    },
+    {
+      "id": 155,
+      "character": "没有",
+      "pinyin": "méiyǒu",
+      "korean": "",
+      "definition": "haven't; hasn't; doesn't exist; to not have; to not be"
+    },
+    {
+      "id": 156,
+      "character": "米饭",
+      "pinyin": "mǐfàn",
+      "korean": "",
+      "definition": "(cooked) rice"
+    },
+    {
+      "id": 157,
+      "character": "明天",
+      "pinyin": "míngtiān",
+      "korean": "",
+      "definition": "tomorrow"
+    },
+    {
+      "id": 158,
+      "character": "名字",
+      "pinyin": "míngzi",
+      "korean": "",
+      "definition": "name (of a person or thing); CL:個|个[ge4]"
+    },
+    {
+      "id": 159,
+      "character": "哪",
+      "pinyin": "nǎ",
+      "korean": "",
+      "definition": "how; which"
+    },
+    {
+      "id": 160,
+      "character": "哪儿",
+      "pinyin": "nǎr",
+      "korean": "",
+      "definition": "where?; wherever; anywhere"
+    },
+    {
+      "id": 161,
+      "character": "那儿",
+      "pinyin": "nàr",
+      "korean": "",
+      "definition": "there"
+    },
+    {
+      "id": 162,
+      "character": "呢",
+      "pinyin": "ne",
+      "korean": "",
+      "definition": "(question particle for subjects already mentioned)"
+    },
+    {
+      "id": 163,
+      "character": "女儿",
+      "pinyin": "nǚ'ér",
+      "korean": "",
+      "definition": "daughter"
+    },
+    {
+      "id": 164,
+      "character": "朋友",
+      "pinyin": "péngyou",
+      "korean": "",
+      "definition": "friend; CL:個|个[ge4],位[wei4]"
+    },
+    {
+      "id": 165,
+      "character": "漂亮",
+      "pinyin": "piàoliang",
+      "korean": "",
+      "definition": "pretty; beautiful"
+    },
+    {
+      "id": 166,
+      "character": "苹果",
+      "pinyin": "píngguǒ",
+      "korean": "",
+      "definition": "apple; CL:個|个[ge4],顆|颗[ke1]"
+    },
+    {
+      "id": 167,
+      "character": "前面",
+      "pinyin": "qiánmiàn",
+      "korean": "",
+      "definition": "ahead; in front; preceding; above"
+    },
+    {
+      "id": 168,
+      "character": "钱",
+      "pinyin": "qián",
+      "korean": "",
+      "definition": "coin; money; CL:筆|笔[bi3]"
+    },
+    {
+      "id": 169,
+      "character": "请",
+      "pinyin": "qǐng",
+      "korean": "",
+      "definition": "to ask; to invite; please (do sth); to treat (to a meal etc); to request"
+    },
+    {
+      "id": 170,
+      "character": "去",
+      "pinyin": "qù",
+      "korean": "",
+      "definition": "to go; to go to (a place); to cause to go or send (sb); to remove; to get rid of; (when used either before or after a verb) to go in order to do sth; to be apart from in space or time; (after a verb of motion indicates movement away from the speaker); (used after certain verbs to indicate detachment or separation); (of a time) last; just passed"
+    },
+    {
+      "id": 171,
+      "character": "热",
+      "pinyin": "rè",
+      "korean": "",
+      "definition": "heat; to heat up; fervent; hot (of weather); warm up"
+    },
+    {
+      "id": 172,
+      "character": "认识",
+      "pinyin": "rènshi",
+      "korean": "",
+      "definition": "to know; to recognize; to be familiar with; acquainted with sth; knowledge; understanding; awareness; cognition"
+    },
+    {
+      "id": 173,
+      "character": "日",
+      "pinyin": "rì",
+      "korean": "",
+      "definition": "day; sun; date; day of the month; abbr. for Japan"
+    },
+    {
+      "id": 174,
+      "character": "商店",
+      "pinyin": "shāngdiàn",
+      "korean": "",
+      "definition": "store; shop; CL:家[jia1],個|个[ge4]"
+    },
+    {
+      "id": 175,
+      "character": "上午",
+      "pinyin": "shàngwǔ",
+      "korean": "",
+      "definition": "morning; CL:個|个[ge4]"
+    },
+    {
+      "id": 176,
+      "character": "少",
+      "pinyin": "shǎo",
+      "korean": "",
+      "definition": "few; little; lack"
+    },
+    {
+      "id": 177,
+      "character": "谁",
+      "pinyin": "shéi",
+      "korean": "",
+      "definition": "who; also pr. [shui2]"
+    },
+    {
+      "id": 178,
+      "character": "什么",
+      "pinyin": "shénme",
+      "korean": "",
+      "definition": "what?; who?; something; anything"
+    },
+    {
+      "id": 179,
+      "character": "时候",
+      "pinyin": "shíhou",
+      "korean": "",
+      "definition": "time; length of time; moment; period"
+    },
+    {
+      "id": 180,
+      "character": "书",
+      "pinyin": "shū",
+      "korean": "",
+      "definition": "book; letter; CL:本[ben3],冊|册[ce4],部[bu4]; see also 書經|书经 Book of History"
+    },
+    {
+      "id": 181,
+      "character": "水",
+      "pinyin": "shuǐ",
+      "korean": "",
+      "definition": "water; river; liquid; beverage; additional charges or income; (of clothes) classifier for number of washes"
+    },
+    {
+      "id": 182,
+      "character": "水果",
+      "pinyin": "shuǐguǒ",
+      "korean": "",
+      "definition": "fruit; CL:個|个[ge4]"
+    },
+    {
+      "id": 183,
+      "character": "睡觉",
+      "pinyin": "shuìjiào",
+      "korean": "",
+      "definition": "to go to bed; to go to sleep"
+    },
+    {
+      "id": 184,
+      "character": "说话",
+      "pinyin": "shuōhuà",
+      "korean": "",
+      "definition": "to speak; to say; to talk; to gossip; to tell stories; talk; word"
+    },
+    {
+      "id": 185,
+      "character": "岁",
+      "pinyin": "suì",
+      "korean": "",
+      "definition": "year; years old; classifier for years (of age)"
+    },
+    {
+      "id": 186,
+      "character": "她",
+      "pinyin": "tā",
+      "korean": "",
+      "definition": "she"
+    },
+    {
+      "id": 187,
+      "character": "太",
+      "pinyin": "tài",
+      "korean": "",
+      "definition": "highest; greatest; too (much); very; extremely"
+    },
+    {
+      "id": 188,
+      "character": "天气",
+      "pinyin": "tiānqì",
+      "korean": "",
+      "definition": "weather"
+    },
+    {
+      "id": 189,
+      "character": "听",
+      "pinyin": "tīng",
+      "korean": "",
+      "definition": "to listen; to hear; to obey; a can (loanword from English 'tin'); classifier for canned beverages"
+    },
+    {
+      "id": 190,
+      "character": "同学",
+      "pinyin": "tóngxué",
+      "korean": "",
+      "definition": "(fellow) classmate; CL:位[wei4],個|个[ge4]"
+    },
+    {
+      "id": 191,
+      "character": "喂",
+      "pinyin": "wèi",
+      "korean": "",
+      "definition": "hello (when answering the phone)"
+    },
+    {
+      "id": 192,
+      "character": "我们",
+      "pinyin": "wǒmen",
+      "korean": "",
+      "definition": "we; us; ourselves; our"
+    },
+    {
+      "id": 193,
+      "character": "喜欢",
+      "pinyin": "xǐhuan",
+      "korean": "",
+      "definition": "to like; to be fond of"
+    },
+    {
+      "id": 194,
+      "character": "下午",
+      "pinyin": "xiàwǔ",
+      "korean": "",
+      "definition": "afternoon; p.m.; CL:個|个[ge4]"
+    },
+    {
+      "id": 195,
+      "character": "下雨",
+      "pinyin": "xià yǔ",
+      "korean": "",
+      "definition": "to rain; rainy"
+    },
+    {
+      "id": 196,
+      "character": "先生",
+      "pinyin": "xiānsheng",
+      "korean": "",
+      "definition": "teacher; husband; doctor (dialect); CL:位[wei4]"
+    },
+    {
+      "id": 197,
+      "character": "现在",
+      "pinyin": "xiànzài",
+      "korean": "",
+      "definition": "now; at present; at the moment; modern; current; nowadays"
+    },
+    {
+      "id": 198,
+      "character": "小姐",
+      "pinyin": "xiǎojie",
+      "korean": "",
+      "definition": "young lady; miss; CL:個|个[ge4],位[wei4]"
+    },
+    {
+      "id": 199,
+      "character": "些",
+      "pinyin": "xiē",
+      "korean": "",
+      "definition": "some; few; several; (a measure word)"
+    },
+    {
+      "id": 200,
+      "character": "写",
+      "pinyin": "xiě",
+      "korean": "",
+      "definition": "to write"
+    },
+    {
+      "id": 201,
+      "character": "谢谢",
+      "pinyin": "xièxie",
+      "korean": "",
+      "definition": "to thank; thanks"
+    },
+    {
+      "id": 202,
+      "character": "星期",
+      "pinyin": "xīngqī",
+      "korean": "",
+      "definition": "week; CL:個|个[ge4]"
+    },
+    {
+      "id": 203,
+      "character": "学生",
+      "pinyin": "xuésheng",
+      "korean": "",
+      "definition": "student; schoolchild"
+    },
+    {
+      "id": 204,
+      "character": "学习",
+      "pinyin": "xuéxí",
+      "korean": "",
+      "definition": "to learn; to study"
+    },
+    {
+      "id": 205,
+      "character": "学校",
+      "pinyin": "xuéxiào",
+      "korean": "",
+      "definition": "school; CL:所[suo3]"
+    },
+    {
+      "id": 206,
+      "character": "一点儿",
+      "pinyin": "yìdiǎnr",
+      "korean": "",
+      "definition": "a bit; a little; one dot; one point"
+    },
+    {
+      "id": 207,
+      "character": "衣服",
+      "pinyin": "yīfu",
+      "korean": "",
+      "definition": "clothes; CL:件[jian4],套[tao4]"
+    },
+    {
+      "id": 208,
+      "character": "医生",
+      "pinyin": "yīshēng",
+      "korean": "",
+      "definition": "doctor; CL:個|个[ge4],位[wei4],名[ming2]"
+    },
+    {
+      "id": 209,
+      "character": "医院",
+      "pinyin": "yīyuàn",
+      "korean": "",
+      "definition": "hospital; CL:所[suo3],家[jia1],座[zuo4]"
+    },
+    {
+      "id": 210,
+      "character": "椅子",
+      "pinyin": "yǐzi",
+      "korean": "",
+      "definition": "chair; CL:把[ba3],套[tao4]"
+    },
+    {
+      "id": 211,
+      "character": "月",
+      "pinyin": "yuè",
+      "korean": "",
+      "definition": "moon; month; CL:個|个[ge4],輪|轮[lun2]"
+    },
+    {
+      "id": 212,
+      "character": "再见",
+      "pinyin": "zàijiàn",
+      "korean": "",
+      "definition": "goodbye; see you again"
+    },
+    {
+      "id": 213,
+      "character": "怎么",
+      "pinyin": "zěnme",
+      "korean": "",
+      "definition": "how?; what?; why?"
+    },
+    {
+      "id": 214,
+      "character": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "korean": "",
+      "definition": "how?; how about?; how was it?; how are things?"
+    },
+    {
+      "id": 215,
+      "character": "这儿",
+      "pinyin": "zhèr",
+      "korean": "",
+      "definition": "here"
+    },
+    {
+      "id": 216,
+      "character": "中国",
+      "pinyin": "Zhōngguó",
+      "korean": "",
+      "definition": "China; Middle Kingdom"
+    },
+    {
+      "id": 217,
+      "character": "中午",
+      "pinyin": "zhōngwǔ",
+      "korean": "",
+      "definition": "noon; midday; CL:個|个[ge4]"
+    },
+    {
+      "id": 218,
+      "character": "住",
+      "pinyin": "zhù",
+      "korean": "",
+      "definition": "to live; to dwell; to stay; to reside; to stop"
+    },
+    {
+      "id": 219,
+      "character": "桌子",
+      "pinyin": "zhuōzi",
+      "korean": "",
+      "definition": "table; desk; CL:張|张[zhang1],套[tao4]"
+    },
+    {
+      "id": 220,
+      "character": "字",
+      "pinyin": "zì",
+      "korean": "",
+      "definition": "letter; symbol; character; word; CL:個|个[ge4]; courtesy or style name traditionally given to males aged 20 in dynastic China"
+    },
+    {
+      "id": 221,
+      "character": "昨天",
+      "pinyin": "zuótiān",
+      "korean": "",
+      "definition": "yesterday"
+    },
+    {
+      "id": 222,
+      "character": "坐",
+      "pinyin": "zuò",
+      "korean": "",
+      "definition": "to sit; to take a seat; to take (a bus, airplane etc); to bear fruit; surname Zuo"
+    },
+    {
+      "id": 223,
+      "character": "做",
+      "pinyin": "zuò",
+      "korean": "",
+      "definition": "to do; to make; to produce; to write; to compose; to act as; to engage in; to hold (a party); to be; to become; to function (in some capacity); to serve as; to be used for; to form (a bond or relationship); to pretend; to feign; to act in a certain way; to be engaged in"
+    },
+    {
+      "id": 224,
+      "character": "阿姨",
+      "pinyin": "āyí",
+      "korean": "",
+      "definition": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:個|个[ge4]"
+    },
+    {
+      "id": 225,
+      "character": "啊",
+      "pinyin": "a",
+      "korean": "",
+      "definition": "modal particle ending sentence, showing affirmation, approval, or consent"
+    },
+    {
+      "id": 226,
+      "character": "矮",
+      "pinyin": "ǎi",
+      "korean": "",
+      "definition": "short (in stature); low; to be short"
+    },
+    {
+      "id": 227,
+      "character": "爱好",
+      "pinyin": "àihào",
+      "korean": "",
+      "definition": "interest; hobby; to love; to be fond of; CL:個|个[ge4]"
+    },
+    {
+      "id": 228,
+      "character": "安静",
+      "pinyin": "ānjìng",
+      "korean": "",
+      "definition": "quiet; peaceful; calm"
+    },
+    {
+      "id": 229,
+      "character": "把",
+      "pinyin": "bǎ",
+      "korean": "",
+      "definition": "to hold; to contain; to grasp; to take hold of; a handle; particle marking the following noun as a direct object; classifier for objects with handle"
+    },
+    {
+      "id": 230,
+      "character": "班",
+      "pinyin": "bān",
+      "korean": "",
+      "definition": "team; class; squad; work shift; classifier for groups; ranking; surname Ban; CL:個|个[ge4]"
+    },
+    {
+      "id": 231,
+      "character": "搬",
+      "pinyin": "bān",
+      "korean": "",
+      "definition": "to move; to shift; to remove; to transport; to apply indiscriminately; to copy mechanically"
+    },
+    {
+      "id": 232,
+      "character": "办法",
+      "pinyin": "bànfǎ",
+      "korean": "",
+      "definition": "means; method; way (of doing sth); CL:條|条[tiao2],個|个[ge4]"
+    },
+    {
+      "id": 233,
+      "character": "办公室",
+      "pinyin": "bàngōngshì",
+      "korean": "",
+      "definition": "an office; business premises; a bureau; CL:間|间[jian1]"
+    },
+    {
+      "id": 234,
+      "character": "半",
+      "pinyin": "bàn",
+      "korean": "",
+      "definition": "half; semi-; incomplete; (after a number) and a half"
+    },
+    {
+      "id": 235,
+      "character": "帮忙",
+      "pinyin": "bāngmáng",
+      "korean": "",
+      "definition": "to help; to lend a hand; to do a favor; to do a good turn"
+    },
+    {
+      "id": 236,
+      "character": "包",
+      "pinyin": "bāo",
+      "korean": "",
+      "definition": "to cover; to wrap; to hold; to include; to take charge of; package; wrapper; container; bag; to hold or embrace; bundle; packet; to contract (to or for); surname Bao; CL:個|个[ge4],隻|只[zhi1]"
+    },
+    {
+      "id": 237,
+      "character": "饱",
+      "pinyin": "bǎo",
+      "korean": "",
+      "definition": "to eat till full; satisfied"
+    },
+    {
+      "id": 238,
+      "character": "北方",
+      "pinyin": "běifāng",
+      "korean": "",
+      "definition": "north; the northern part a country; China north of the Yellow River"
+    },
+    {
+      "id": 239,
+      "character": "被",
+      "pinyin": "bèi",
+      "korean": "",
+      "definition": "by (indicates passive-voice sentences or clauses); quilt; to cover (literary)"
+    },
+    {
+      "id": 240,
+      "character": "鼻子",
+      "pinyin": "bízi",
+      "korean": "",
+      "definition": "nose; CL:個|个[ge4],隻|只[zhi1]"
+    },
+    {
+      "id": 241,
+      "character": "比较",
+      "pinyin": "bǐjiào",
+      "korean": "",
+      "definition": "to compare; to contrast; comparatively; relatively; quite; comparison"
+    },
+    {
+      "id": 242,
+      "character": "比赛",
+      "pinyin": "bǐsài",
+      "korean": "",
+      "definition": "competition (sports etc); match; CL:場|场[chang3],次[ci4]"
+    },
+    {
+      "id": 243,
+      "character": "笔记本",
+      "pinyin": "bǐjìběn",
+      "korean": "",
+      "definition": "notebook; CL:本[ben3]"
+    },
+    {
+      "id": 244,
+      "character": "必须",
+      "pinyin": "bìxū",
+      "korean": "",
+      "definition": "to have to; must; compulsory; necessarily"
+    },
+    {
+      "id": 245,
+      "character": "变化",
+      "pinyin": "biànhuà",
+      "korean": "",
+      "definition": "change; variation; to change; to vary; CL:個|个[ge4]"
+    },
+    {
+      "id": 246,
+      "character": "别人",
+      "pinyin": "biéren",
+      "korean": "",
+      "definition": "other people; others; other person"
+    },
+    {
+      "id": 247,
+      "character": "宾馆",
+      "pinyin": "bīnguǎn",
+      "korean": "",
+      "definition": "guesthouse; CL:個|个[ge4],家[jia1]"
+    },
+    {
+      "id": 248,
+      "character": "冰箱",
+      "pinyin": "bīngxiāng",
+      "korean": "",
+      "definition": "icebox; freezer; refrigerator; CL:臺|台[tai2],個|个[ge4]"
+    },
+    {
+      "id": 249,
+      "character": "不但",
+      "pinyin": "búdàn",
+      "korean": "",
+      "definition": "not only (... but also...)"
+    },
+    {
+      "id": 250,
+      "character": "而且",
+      "pinyin": "érqiě",
+      "korean": "",
+      "definition": "not only ... but also ....; ... as well as ...; moreover; in addition"
+    },
+    {
+      "id": 251,
+      "character": "才",
+      "pinyin": "cái",
+      "korean": "",
+      "definition": "ability; talent; endowment; gift; an expert; only (then); only if; just"
+    },
+    {
+      "id": 252,
+      "character": "菜单",
+      "pinyin": "càidān",
+      "korean": "",
+      "definition": "menu; CL:份[fen4],張|张[zhang1]"
+    },
+    {
+      "id": 253,
+      "character": "参加",
+      "pinyin": "cānjiā",
+      "korean": "",
+      "definition": "to participate; to take part; to join"
+    },
+    {
+      "id": 254,
+      "character": "草",
+      "pinyin": "cǎo",
+      "korean": "",
+      "definition": "grass; straw; manuscript; draft (of a document); careless; rough; CL:棵[ke1],撮[zuo3],株[zhu1],根[gen1]"
+    },
+    {
+      "id": 255,
+      "character": "层",
+      "pinyin": "céng",
+      "korean": "",
+      "definition": "layer; stratum; laminated; floor (of a building); storey; classifier for layers; repeated; sheaf (math.)"
+    },
+    {
+      "id": 256,
+      "character": "差",
+      "pinyin": "chà",
+      "korean": "",
+      "definition": "difference; discrepancy; to differ; error; to err; to make a mistake"
+    },
+    {
+      "id": 257,
+      "character": "长",
+      "pinyin": "cháng",
+      "korean": "",
+      "definition": "length; long; forever; always; constantly"
+    },
+    {
+      "id": 258,
+      "character": "超市",
+      "pinyin": "chāoshì",
+      "korean": "",
+      "definition": "supermarket (abbr.); CL:家[jia1]"
+    },
+    {
+      "id": 259,
+      "character": "衬衫",
+      "pinyin": "chènshān",
+      "korean": "",
+      "definition": "shirt; blouse; CL:件[jian4]"
+    },
+    {
+      "id": 260,
+      "character": "成绩",
+      "pinyin": "chéngjì",
+      "korean": "",
+      "definition": "achievement; performance records; grades; CL:項|项[xiang4],個|个[ge4]"
+    },
+    {
+      "id": 261,
+      "character": "城市",
+      "pinyin": "chéngshì",
+      "korean": "",
+      "definition": "city; town; CL:座[zuo4]"
+    },
+    {
+      "id": 262,
+      "character": "迟到",
+      "pinyin": "chídào",
+      "korean": "",
+      "definition": "to arrive late"
+    },
+    {
+      "id": 263,
+      "character": "除了",
+      "pinyin": "chúle",
+      "korean": "",
+      "definition": "besides; apart from (... also...); in addition to; except (for)"
+    },
+    {
+      "id": 264,
+      "character": "船",
+      "pinyin": "chuán",
+      "korean": "",
+      "definition": "a boat; vessel; ship; CL:條|条[tiao2],艘[sou1],隻|只[zhi1]"
+    },
+    {
+      "id": 265,
+      "character": "春",
+      "pinyin": "chūn",
+      "korean": "",
+      "definition": "spring (time); gay; joyful; youthful; love; lust; life"
+    },
+    {
+      "id": 266,
+      "character": "词典",
+      "pinyin": "cídiǎn",
+      "korean": "",
+      "definition": "dictionary (of Chinese compound words); also written 辭典|辞典[ci2 dian3]; CL:部[bu4],本[ben3]"
+    },
+    {
+      "id": 267,
+      "character": "聪明",
+      "pinyin": "cōngming",
+      "korean": "",
+      "definition": "acute (of sight and hearing); clever; intelligent; bright; smart"
+    },
+    {
+      "id": 268,
+      "character": "打扫",
+      "pinyin": "dǎsǎo",
+      "korean": "",
+      "definition": "to clean; to sweep"
+    },
+    {
+      "id": 269,
+      "character": "打算",
+      "pinyin": "dǎsuàn",
+      "korean": "",
+      "definition": "to plan; to intend; to calculate; plan; intention; calculation; CL:個|个[ge4]"
+    },
+    {
+      "id": 270,
+      "character": "带",
+      "pinyin": "dài",
+      "korean": "",
+      "definition": "band; belt; girdle; ribbon; tire; area; zone; region; to wear; to carry; to lead; to bring; to look after; to raise; CL:條|条[tiao2]"
+    },
+    {
+      "id": 271,
+      "character": "担心",
+      "pinyin": "dānxīn",
+      "korean": "",
+      "definition": "anxious; worried; uneasy; to worry; to be anxious"
+    },
+    {
+      "id": 272,
+      "character": "蛋糕",
+      "pinyin": "dàngāo",
+      "korean": "",
+      "definition": "cake; CL:塊|块[kuai4],個|个[ge4]"
+    },
+    {
+      "id": 273,
+      "character": "当然",
+      "pinyin": "dāngrán",
+      "korean": "",
+      "definition": "only natural; as it should be; certainly; of course; without doubt"
+    },
+    {
+      "id": 274,
+      "character": "灯",
+      "pinyin": "dēng",
+      "korean": "",
+      "definition": "lamp; light; lantern; CL:盞|盏[zhan3]"
+    },
+    {
+      "id": 275,
+      "character": "地",
+      "pinyin": "de",
+      "korean": "",
+      "definition": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"
+    },
+    {
+      "id": 276,
+      "character": "地方",
+      "pinyin": "dìfang",
+      "korean": "",
+      "definition": "region; regional (away from the center)"
+    },
+    {
+      "id": 277,
+      "character": "地铁",
+      "pinyin": "dìtiě",
+      "korean": "",
+      "definition": "subway; metro"
+    },
+    {
+      "id": 278,
+      "character": "地图",
+      "pinyin": "dìtú",
+      "korean": "",
+      "definition": "map; CL:張|张[zhang1],本[ben3]"
+    },
+    {
+      "id": 279,
+      "character": "电梯",
+      "pinyin": "diàntī",
+      "korean": "",
+      "definition": "elevator; CL:臺|台[tai2],部[bu4]"
+    },
+    {
+      "id": 280,
+      "character": "电子邮件",
+      "pinyin": "diànzǐ yóujiàn",
+      "korean": "",
+      "definition": "electronic mail; email; CL:封[feng1]"
+    },
+    {
+      "id": 281,
+      "character": "东",
+      "pinyin": "dōng",
+      "korean": "",
+      "definition": "east; host (i.e. sitting on the east side of the host); landlord; surname Dong"
+    },
+    {
+      "id": 282,
+      "character": "冬",
+      "pinyin": "dōng",
+      "korean": "",
+      "definition": "winter"
+    },
+    {
+      "id": 283,
+      "character": "动物",
+      "pinyin": "dòngwù",
+      "korean": "",
+      "definition": "animal; CL:隻|只[zhi1],群[qun2],個|个[ge4]"
+    },
+    {
+      "id": 284,
+      "character": "短",
+      "pinyin": "duǎn",
+      "korean": "",
+      "definition": "short or brief; to lack; weak point; fault"
+    },
+    {
+      "id": 285,
+      "character": "段",
+      "pinyin": "duàn",
+      "korean": "",
+      "definition": "paragraph; section; segment; stage (of a process); classifier for stories, periods of time, lengths of thread etc"
+    },
+    {
+      "id": 286,
+      "character": "锻炼",
+      "pinyin": "duànliàn",
+      "korean": "",
+      "definition": "to engage in physical exercise; to toughen; to temper"
+    },
+    {
+      "id": 287,
+      "character": "多么",
+      "pinyin": "duōme",
+      "korean": "",
+      "definition": "how (wonderful etc); what (a great idea etc); however (difficult it may be etc)"
+    },
+    {
+      "id": 288,
+      "character": "饿",
+      "pinyin": "è",
+      "korean": "",
+      "definition": "to be hungry; hungry"
+    },
+    {
+      "id": 289,
+      "character": "耳朵",
+      "pinyin": "ěrduo",
+      "korean": "",
+      "definition": "ear; CL:隻|只[zhi1],個|个[ge4],對|对[dui4]"
+    },
+    {
+      "id": 290,
+      "character": "发",
+      "pinyin": "fā",
+      "korean": "",
+      "definition": "to send out; to show (one's feeling); to issue; to develop; to make a bundle of money; classifier for gunshots (rounds)"
+    },
+    {
+      "id": 291,
+      "character": "发烧",
+      "pinyin": "fāshāo",
+      "korean": "",
+      "definition": "have a high temperature (from illness); have a fever"
+    },
+    {
+      "id": 292,
+      "character": "发现",
+      "pinyin": "fāxiàn",
+      "korean": "",
+      "definition": "to find; to discover"
+    },
+    {
+      "id": 293,
+      "character": "方便",
+      "pinyin": "fāngbiàn",
+      "korean": "",
+      "definition": "convenient; to help out; to make things easy for people; convenience; suitable; having money to spare; (euphemism) to go to the toilet"
+    },
+    {
+      "id": 294,
+      "character": "放",
+      "pinyin": "fàng",
+      "korean": "",
+      "definition": "to release; to free; to let go; to put; to place; to let out; to set off (fireworks)"
+    },
+    {
+      "id": 295,
+      "character": "放心",
+      "pinyin": "fàngxīn",
+      "korean": "",
+      "definition": "to set one's mind at rest; to be at ease; to rest"
+    },
+    {
+      "id": 296,
+      "character": "附近",
+      "pinyin": "fùjìn",
+      "korean": "",
+      "definition": "(in the) vicinity; nearby; neighboring; next to"
+    },
+    {
+      "id": 297,
+      "character": "复习",
+      "pinyin": "fùxí",
+      "korean": "",
+      "definition": "to revise; to review; revision; CL:次[ci4]"
+    },
+    {
+      "id": 298,
+      "character": "干净",
+      "pinyin": "gānjìng",
+      "korean": "",
+      "definition": "clean; neat"
+    },
+    {
+      "id": 299,
+      "character": "敢",
+      "pinyin": "gǎn",
+      "korean": "",
+      "definition": "to dare; daring; (polite) may I venture"
+    },
+    {
+      "id": 300,
+      "character": "感冒",
+      "pinyin": "gǎnmào",
+      "korean": "",
+      "definition": "to catch cold; (common) cold; CL:場|场[chang2],次[ci4]"
+    },
+    {
+      "id": 301,
+      "character": "刚才",
+      "pinyin": "gāngcái",
+      "korean": "",
+      "definition": "just now; a moment ago"
+    },
+    {
+      "id": 302,
+      "character": "跟",
+      "pinyin": "gēn",
+      "korean": "",
+      "definition": "heel; to follow closely; to go with; to marry sb (of a woman); with; towards; as (compared to); from (different from); and (in addition to)"
+    },
+    {
+      "id": 303,
+      "character": "根据",
+      "pinyin": "gēnjù",
+      "korean": "",
+      "definition": "according to; based on; basis; foundation; CL:個|个[ge4]"
+    },
+    {
+      "id": 304,
+      "character": "更",
+      "pinyin": "gèng",
+      "korean": "",
+      "definition": "more; even more; further; still; still more"
+    },
+    {
+      "id": 305,
+      "character": "公斤",
+      "pinyin": "gōngjīn",
+      "korean": "",
+      "definition": "kilogram (kg)"
+    },
+    {
+      "id": 306,
+      "character": "公园",
+      "pinyin": "gōngyuán",
+      "korean": "",
+      "definition": "park (for public recreation); CL:個|个[ge4]"
+    },
+    {
+      "id": 307,
+      "character": "故事",
+      "pinyin": "gùshi",
+      "korean": "",
+      "definition": "story; tale; narrative"
+    },
+    {
+      "id": 308,
+      "character": "刮风",
+      "pinyin": "guā fēng",
+      "korean": "",
+      "definition": "to be windy"
+    },
+    {
+      "id": 309,
+      "character": "关",
+      "pinyin": "guān",
+      "korean": "",
+      "definition": "mountain pass; to close; to shut; to turn off; to concern; to involve"
+    },
+    {
+      "id": 310,
+      "character": "关系",
+      "pinyin": "guānxì",
+      "korean": "",
+      "definition": "relation; relationship; to concern; to affect; to have to do with; guanxi; CL:個|个[ge4]"
+    },
+    {
+      "id": 311,
+      "character": "关心",
+      "pinyin": "guānxīn",
+      "korean": "",
+      "definition": "to be concerned about; to care for"
+    },
+    {
+      "id": 312,
+      "character": "关于",
+      "pinyin": "guānyú",
+      "korean": "",
+      "definition": "pertaining to; concerning; regarding; with respect to; about; a matter of"
+    },
+    {
+      "id": 313,
+      "character": "贵",
+      "pinyin": "guì",
+      "korean": "",
+      "definition": "expensive; noble; your (name); precious"
+    },
+    {
+      "id": 314,
+      "character": "国家",
+      "pinyin": "guójiā",
+      "korean": "",
+      "definition": "country; nation; state; CL:個|个[ge4]"
+    },
+    {
+      "id": 315,
+      "character": "果汁",
+      "pinyin": "guǒzhī",
+      "korean": "",
+      "definition": "fruit juice"
+    },
+    {
+      "id": 316,
+      "character": "过去",
+      "pinyin": "guòqù",
+      "korean": "",
+      "definition": "(in the) past; former; previous; to go over; to pass by"
+    },
+    {
+      "id": 317,
+      "character": "还是",
+      "pinyin": "háishì",
+      "korean": "",
+      "definition": "or; still; nevertheless"
+    },
+    {
+      "id": 318,
+      "character": "害怕",
+      "pinyin": "hàipà",
+      "korean": "",
+      "definition": "to be afraid; to be scared"
+    },
+    {
+      "id": 319,
+      "character": "黑板",
+      "pinyin": "hēibǎn",
+      "korean": "",
+      "definition": "blackboard; CL:塊|块[kuai4],個|个[ge4]"
+    },
+    {
+      "id": 320,
+      "character": "后来",
+      "pinyin": "hòulái",
+      "korean": "",
+      "definition": "afterwards; later"
+    },
+    {
+      "id": 321,
+      "character": "护照",
+      "pinyin": "hùzhào",
+      "korean": "",
+      "definition": "passport; CL:本[ben3],個|个[ge4]"
+    },
+    {
+      "id": 322,
+      "character": "花",
+      "pinyin": "huā",
+      "korean": "",
+      "definition": "flower; blossom; to spend (money, time); fancy pattern; CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]"
+    },
+    {
+      "id": 323,
+      "character": "花园",
+      "pinyin": "huāyuán",
+      "korean": "",
+      "definition": "garden; CL:座[zuo4],個|个[ge4]"
+    },
+    {
+      "id": 324,
+      "character": "画",
+      "pinyin": "huà",
+      "korean": "",
+      "definition": "to draw; picture; painting; CL:幅[fu2],張|张[zhang1]"
+    },
+    {
+      "id": 325,
+      "character": "坏",
+      "pinyin": "huài",
+      "korean": "",
+      "definition": "bad; spoiled; broken; to break down"
+    },
+    {
+      "id": 326,
+      "character": "欢迎",
+      "pinyin": "huānyíng",
+      "korean": "",
+      "definition": "to welcome; welcome"
+    },
+    {
+      "id": 327,
+      "character": "还",
+      "pinyin": "hái",
+      "korean": "",
+      "definition": "still; still in progress; still more; yet; even more; in addition; fairly; passably (good); as early as; even; also; else"
+    },
+    {
+      "id": 328,
+      "character": "环境",
+      "pinyin": "huánjìng",
+      "korean": "",
+      "definition": "environment; circumstances; surroundings; CL:個|个[ge4]; ambient"
+    },
+    {
+      "id": 329,
+      "character": "换",
+      "pinyin": "huàn",
+      "korean": "",
+      "definition": "change; exchange"
+    },
+    {
+      "id": 330,
+      "character": "黄河",
+      "pinyin": "Huáng Hé",
+      "korean": "",
+      "definition": "Yellow River or Huang He"
+    },
+    {
+      "id": 331,
+      "character": "回答",
+      "pinyin": "huídá",
+      "korean": "",
+      "definition": "to reply; to answer; the answer; CL:個|个[ge4]"
+    },
+    {
+      "id": 332,
+      "character": "会议",
+      "pinyin": "huìyì",
+      "korean": "",
+      "definition": "meeting; conference; CL:場|场[chang3],屆|届[jie4]"
+    },
+    {
+      "id": 333,
+      "character": "或者",
+      "pinyin": "huòzhě",
+      "korean": "",
+      "definition": "or; possibly; maybe; perhaps"
+    },
+    {
+      "id": 334,
+      "character": "几乎",
+      "pinyin": "jīhū",
+      "korean": "",
+      "definition": "almost; nearly; close to"
+    },
+    {
+      "id": 335,
+      "character": "机会",
+      "pinyin": "jīhuì",
+      "korean": "",
+      "definition": "opportunity; chance; occasion; CL:個|个[ge4]"
+    },
+    {
+      "id": 336,
+      "character": "极",
+      "pinyin": "jí",
+      "korean": "",
+      "definition": "extremely; pole (geography, physics); utmost; top"
+    },
+    {
+      "id": 337,
+      "character": "记得",
+      "pinyin": "jìde",
+      "korean": "",
+      "definition": "to remember"
+    },
+    {
+      "id": 338,
+      "character": "季节",
+      "pinyin": "jìjié",
+      "korean": "",
+      "definition": "time; season; period; CL:個|个[ge4]"
+    },
+    {
+      "id": 339,
+      "character": "检查",
+      "pinyin": "jiǎnchá",
+      "korean": "",
+      "definition": "inspection; to examine; to inspect; CL:次[ci4]"
+    },
+    {
+      "id": 340,
+      "character": "简单",
+      "pinyin": "jiǎndān",
+      "korean": "",
+      "definition": "simple; not complicated"
+    },
+    {
+      "id": 341,
+      "character": "见面",
+      "pinyin": "jiànmiàn",
+      "korean": "",
+      "definition": "to meet; to see sb; CL:次[ci4]"
+    },
+    {
+      "id": 342,
+      "character": "健康",
+      "pinyin": "jiànkāng",
+      "korean": "",
+      "definition": "health; healthy"
+    },
+    {
+      "id": 343,
+      "character": "讲",
+      "pinyin": "jiǎng",
+      "korean": "",
+      "definition": "to speak; to explain; to negotiate; to emphasise; to be particular about; as far as sth is concerned; speech; lecture"
+    },
+    {
+      "id": 344,
+      "character": "教",
+      "pinyin": "jiāo",
+      "korean": "",
+      "definition": "to teach"
+    },
+    {
+      "id": 345,
+      "character": "角",
+      "pinyin": "jiǎo",
+      "korean": "",
+      "definition": "angle; corner; horn; horn-shaped; unit of money equal to 0.1 yuan; CL:個|个[ge4]"
+    },
+    {
+      "id": 346,
+      "character": "脚",
+      "pinyin": "jiǎo",
+      "korean": "",
+      "definition": "foot; leg; base; kick; CL:雙|双[shuang1],隻|只[zhi1]"
+    },
+    {
+      "id": 347,
+      "character": "接",
+      "pinyin": "jiē",
+      "korean": "",
+      "definition": "to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; take over for sb"
+    },
+    {
+      "id": 348,
+      "character": "街道",
+      "pinyin": "jiēdào",
+      "korean": "",
+      "definition": "street; CL:條|条[tiao2]"
+    },
+    {
+      "id": 349,
+      "character": "节目",
+      "pinyin": "jiémù",
+      "korean": "",
+      "definition": "program; item (on a program); CL:臺|台[tai2],個|个[ge4],套[tao4]"
+    },
+    {
+      "id": 350,
+      "character": "节日",
+      "pinyin": "jiérì",
+      "korean": "",
+      "definition": "holiday; festival; CL:個|个[ge4]"
+    },
+    {
+      "id": 351,
+      "character": "结婚",
+      "pinyin": "jiéhūn",
+      "korean": "",
+      "definition": "to marry; to get married; CL:次[ci4]"
+    },
+    {
+      "id": 352,
+      "character": "结束",
+      "pinyin": "jiéshù",
+      "korean": "",
+      "definition": "termination; to finish; to end; to conclude; to close"
+    },
+    {
+      "id": 353,
+      "character": "解决",
+      "pinyin": "jiějué",
+      "korean": "",
+      "definition": "to settle (a dispute); to resolve; to solve"
+    },
+    {
+      "id": 354,
+      "character": "姐姐",
+      "pinyin": "jiějie",
+      "korean": "",
+      "definition": "older sister; CL:個|个[ge4]"
+    },
+    {
+      "id": 355,
+      "character": "借",
+      "pinyin": "jiè",
+      "korean": "",
+      "definition": "to lend; to borrow; excuse; pretext; by means of; to seize (an opportunity); to take (an opportunity)"
+    },
+    {
+      "id": 356,
+      "character": "经常",
+      "pinyin": "jīngcháng",
+      "korean": "",
+      "definition": "day to day; everyday; daily; frequently; constantly; regularly; often"
+    },
+    {
+      "id": 357,
+      "character": "经过",
+      "pinyin": "jīngguò",
+      "korean": "",
+      "definition": "to pass; to go through; process; course; CL:個|个[ge4]"
+    },
+    {
+      "id": 358,
+      "character": "经理",
+      "pinyin": "jīnglǐ",
+      "korean": "",
+      "definition": "manager; director; CL:個|个[ge4],位[wei4],名[ming2]"
+    },
+    {
+      "id": 359,
+      "character": "久",
+      "pinyin": "jiǔ",
+      "korean": "",
+      "definition": "(long) time; (long) duration of time"
+    },
+    {
+      "id": 360,
+      "character": "旧",
+      "pinyin": "jiù",
+      "korean": "",
+      "definition": "old; opposite: new 新; former; worn (with age)"
+    },
+    {
+      "id": 361,
+      "character": "句子",
+      "pinyin": "jùzi",
+      "korean": "",
+      "definition": "sentence; CL:個|个[ge4]"
+    },
+    {
+      "id": 362,
+      "character": "决定",
+      "pinyin": "juédìng",
+      "korean": "",
+      "definition": "to decide (to do something); to resolve; decision; CL:個|个[ge4],項|项[xiang4]; certainly"
+    },
+    {
+      "id": 363,
+      "character": "可爱",
+      "pinyin": "kě'ài",
+      "korean": "",
+      "definition": "amiable; cute; lovely"
+    },
+    {
+      "id": 364,
+      "character": "渴",
+      "pinyin": "kě",
+      "korean": "",
+      "definition": "thirsty"
+    },
+    {
+      "id": 365,
+      "character": "刻",
+      "pinyin": "kè",
+      "korean": "",
+      "definition": "quarter (hour); moment; to carve; to engrave; to cut; oppressive; classifier for short time intervals"
+    },
+    {
+      "id": 366,
+      "character": "客人",
+      "pinyin": "kèren",
+      "korean": "",
+      "definition": "visitor; guest; customer; client; CL:位[wei4]"
+    },
+    {
+      "id": 367,
+      "character": "空调",
+      "pinyin": "kōngtiáo",
+      "korean": "",
+      "definition": "air conditioning; air conditioner; CL:臺|台[tai2]"
+    },
+    {
+      "id": 368,
+      "character": "口",
+      "pinyin": "kǒu",
+      "korean": "",
+      "definition": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc)"
+    },
+    {
+      "id": 369,
+      "character": "哭",
+      "pinyin": "kū",
+      "korean": "",
+      "definition": "to cry; to weep"
+    },
+    {
+      "id": 370,
+      "character": "裤子",
+      "pinyin": "kùzi",
+      "korean": "",
+      "definition": "trousers; pants; CL:條|条[tiao2]"
+    },
+    {
+      "id": 371,
+      "character": "筷子",
+      "pinyin": "kuàizi",
+      "korean": "",
+      "definition": "chopsticks; CL:對|对[dui4],根[gen1],把[ba3],雙|双[shuang1]"
+    },
+    {
+      "id": 372,
+      "character": "蓝",
+      "pinyin": "lán",
+      "korean": "",
+      "definition": "blue; indigo plant"
+    },
+    {
+      "id": 373,
+      "character": "离开",
+      "pinyin": "líkāi",
+      "korean": "",
+      "definition": "to depart; to leave"
+    },
+    {
+      "id": 374,
+      "character": "礼物",
+      "pinyin": "lǐwù",
+      "korean": "",
+      "definition": "gift; present; CL:件[jian4],個|个[ge4],份[fen4]"
+    },
+    {
+      "id": 375,
+      "character": "历史",
+      "pinyin": "lìshǐ",
+      "korean": "",
+      "definition": "history; CL:門|门[men2],段[duan4]"
+    },
+    {
+      "id": 376,
+      "character": "练习",
+      "pinyin": "liànxí",
+      "korean": "",
+      "definition": "exercise; drill; practice; CL:個|个[ge4]"
+    },
+    {
+      "id": 377,
+      "character": "辆",
+      "pinyin": "liàng",
+      "korean": "",
+      "definition": "classifier for vehicles"
+    },
+    {
+      "id": 378,
+      "character": "聊天",
+      "pinyin": "liáotiān",
+      "korean": "",
+      "definition": "to chat; to gossip"
+    },
+    {
+      "id": 379,
+      "character": "了解",
+      "pinyin": "liǎojiě",
+      "korean": "",
+      "definition": "to understand; to realize; to find out"
+    },
+    {
+      "id": 380,
+      "character": "邻居",
+      "pinyin": "línjū",
+      "korean": "",
+      "definition": "neighbor; next door; CL:個|个[ge4]"
+    },
+    {
+      "id": 381,
+      "character": "留学",
+      "pinyin": "liúxué",
+      "korean": "",
+      "definition": "to study abroad"
+    },
+    {
+      "id": 382,
+      "character": "楼",
+      "pinyin": "lóu",
+      "korean": "",
+      "definition": "house with more than 1 story; storied building; floor; CL:層|层[ceng2],座[zuo4],棟|栋[dong4]"
+    },
+    {
+      "id": 383,
+      "character": "绿",
+      "pinyin": "lǜ",
+      "korean": "",
+      "definition": "green"
+    },
+    {
+      "id": 384,
+      "character": "马",
+      "pinyin": "mǎ",
+      "korean": "",
+      "definition": "horse; abbr. for Malaysia 馬來西亞|马来西亚; surname Ma; CL:匹[pi3]"
+    },
+    {
+      "id": 385,
+      "character": "马上",
+      "pinyin": "mǎshàng",
+      "korean": "",
+      "definition": "at once; right away; immediately; on horseback (i.e. by military force)"
+    },
+    {
+      "id": 386,
+      "character": "满意",
+      "pinyin": "mǎnyì",
+      "korean": "",
+      "definition": "satisfied; pleased; to one's satisfaction"
+    },
+    {
+      "id": 387,
+      "character": "帽子",
+      "pinyin": "màozi",
+      "korean": "",
+      "definition": "hat; cap; CL:頂|顶[ding3]"
+    },
+    {
+      "id": 388,
+      "character": "米",
+      "pinyin": "mǐ",
+      "korean": "",
+      "definition": "rice; meter (classifier); CL:粒[li4]; surname Mi"
+    },
+    {
+      "id": 389,
+      "character": "面包",
+      "pinyin": "miànbāo",
+      "korean": "",
+      "definition": "bread; CL:片[pian4],袋[dai4],塊|块[kuai4]"
+    },
+    {
+      "id": 390,
+      "character": "明白",
+      "pinyin": "míngbai",
+      "korean": "",
+      "definition": "clear; obvious; unequivocal; to understand; to realize"
+    },
+    {
+      "id": 391,
+      "character": "拿",
+      "pinyin": "ná",
+      "korean": "",
+      "definition": "to hold; to seize; to catch; to apprehend; to take"
+    },
+    {
+      "id": 392,
+      "character": "奶奶",
+      "pinyin": "nǎinai",
+      "korean": "",
+      "definition": "(informal) father's mother; paternal grandmother; CL:位[wei4]"
+    },
+    {
+      "id": 393,
+      "character": "南方",
+      "pinyin": "nánfāng",
+      "korean": "",
+      "definition": "south; the southern part of the country; the South"
+    },
+    {
+      "id": 394,
+      "character": "难",
+      "pinyin": "nán",
+      "korean": "",
+      "definition": "difficult (to...); problem; difficulty; difficult; not good"
+    },
+    {
+      "id": 395,
+      "character": "难过",
+      "pinyin": "nánguò",
+      "korean": "",
+      "definition": "feel sorry; be grieved"
+    },
+    {
+      "id": 396,
+      "character": "年级",
+      "pinyin": "niánjí",
+      "korean": "",
+      "definition": "grade; CL:個|个[ge4]"
+    },
+    {
+      "id": 397,
+      "character": "年轻",
+      "pinyin": "niánqīng",
+      "korean": "",
+      "definition": "young"
+    },
+    {
+      "id": 398,
+      "character": "鸟",
+      "pinyin": "niǎo",
+      "korean": "",
+      "definition": "bird; CL:隻|只[zhi1],群[qun2]"
+    },
+    {
+      "id": 399,
+      "character": "努力",
+      "pinyin": "nǔlì",
+      "korean": "",
+      "definition": "great effort; to strive; to try hard"
+    },
+    {
+      "id": 400,
+      "character": "爬山",
+      "pinyin": "páshān",
+      "korean": "",
+      "definition": "to climb a mountain; to mountaineer; hiking; mountaineering"
+    },
+    {
+      "id": 401,
+      "character": "盘子",
+      "pinyin": "pánzi",
+      "korean": "",
+      "definition": "tray; plate; dish; CL:個|个[ge4]"
+    },
+    {
+      "id": 402,
+      "character": "胖",
+      "pinyin": "pàng",
+      "korean": "",
+      "definition": "fat; plump"
+    },
+    {
+      "id": 403,
+      "character": "皮鞋",
+      "pinyin": "píxié",
+      "korean": "",
+      "definition": "leather shoes"
+    },
+    {
+      "id": 404,
+      "character": "啤酒",
+      "pinyin": "píjiǔ",
+      "korean": "",
+      "definition": "beer; CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],箱[xiang1]"
+    },
+    {
+      "id": 405,
+      "character": "葡萄",
+      "pinyin": "pútao",
+      "korean": "",
+      "definition": "grape"
+    },
+    {
+      "id": 406,
+      "character": "普通话",
+      "pinyin": "pǔtōnghuà",
+      "korean": "",
+      "definition": "Mandarin (common language); CL:門|门[men2]"
+    },
+    {
+      "id": 407,
+      "character": "其实",
+      "pinyin": "qíshí",
+      "korean": "",
+      "definition": "actually; in fact; really"
+    },
+    {
+      "id": 408,
+      "character": "其他",
+      "pinyin": "qítā",
+      "korean": "",
+      "definition": "other; the others; else; other than (that person); in addition to the person mentioned above"
+    },
+    {
+      "id": 409,
+      "character": "奇怪",
+      "pinyin": "qíguài",
+      "korean": "",
+      "definition": "strange; odd"
+    },
+    {
+      "id": 410,
+      "character": "骑",
+      "pinyin": "qí",
+      "korean": "",
+      "definition": "to ride (an animal or bike); to sit astride"
+    },
+    {
+      "id": 411,
+      "character": "起飞",
+      "pinyin": "qǐfēi",
+      "korean": "",
+      "definition": "to take off (in an airplane)"
+    },
+    {
+      "id": 412,
+      "character": "清楚",
+      "pinyin": "qīngchu",
+      "korean": "",
+      "definition": "clear; distinct; to understand thoroughly; to be clear about"
+    },
+    {
+      "id": 413,
+      "character": "秋",
+      "pinyin": "qiū",
+      "korean": "",
+      "definition": "autumn; fall; harvest time; a swing; surname Qiu"
+    },
+    {
+      "id": 414,
+      "character": "裙子",
+      "pinyin": "qúnzi",
+      "korean": "",
+      "definition": "skirt; CL:條|条[tiao2]"
+    },
+    {
+      "id": 415,
+      "character": "然后",
+      "pinyin": "ránhòu",
+      "korean": "",
+      "definition": "after; then (afterwards); after that; afterwards"
+    },
+    {
+      "id": 416,
+      "character": "热情",
+      "pinyin": "rèqíng",
+      "korean": "",
+      "definition": "cordial; enthusiastic; passion; passionate; passionately"
+    },
+    {
+      "id": 417,
+      "character": "认为",
+      "pinyin": "rènwéi",
+      "korean": "",
+      "definition": "to believe; to think; to consider; to feel"
+    },
+    {
+      "id": 418,
+      "character": "认真",
+      "pinyin": "rènzhēn",
+      "korean": "",
+      "definition": "conscientious; earnest; serious; to take seriously; to take to heart"
+    },
+    {
+      "id": 419,
+      "character": "容易",
+      "pinyin": "róngyì",
+      "korean": "",
+      "definition": "easy; likely; liable (to)"
+    },
+    {
+      "id": 420,
+      "character": "如果",
+      "pinyin": "rúguǒ",
+      "korean": "",
+      "definition": "if; in case; in the event that"
+    },
+    {
+      "id": 421,
+      "character": "伞",
+      "pinyin": "sǎn",
+      "korean": "",
+      "definition": "umbrella; parasol; CL:把[ba3]"
+    },
+    {
+      "id": 422,
+      "character": "上网",
+      "pinyin": "shàngwǎng",
+      "korean": "",
+      "definition": "to be on the internet; to stretch a net (in a sports game or for covering sth); to be netted (of fish)"
+    },
+    {
+      "id": 423,
+      "character": "生气",
+      "pinyin": "shēngqì",
+      "korean": "",
+      "definition": "angry; mad; offended; animated; to get angry; to be enraged; to take offense; animation"
+    },
+    {
+      "id": 424,
+      "character": "声音",
+      "pinyin": "shēngyīn",
+      "korean": "",
+      "definition": "voice; sound; CL:個|个[ge4]"
+    },
+    {
+      "id": 425,
+      "character": "世界",
+      "pinyin": "shìjiè",
+      "korean": "",
+      "definition": "world; CL:個|个[ge4]"
+    },
+    {
+      "id": 426,
+      "character": "试",
+      "pinyin": "shì",
+      "korean": "",
+      "definition": "to test; to try; experiment; examination; test"
+    },
+    {
+      "id": 427,
+      "character": "瘦",
+      "pinyin": "shòu",
+      "korean": "",
+      "definition": "tight; thin; lean"
+    },
+    {
+      "id": 428,
+      "character": "叔叔",
+      "pinyin": "shūshu",
+      "korean": "",
+      "definition": "father's younger brother; uncle; CL:個|个[ge4]"
+    },
+    {
+      "id": 429,
+      "character": "舒服",
+      "pinyin": "shūfu",
+      "korean": "",
+      "definition": "comfortable; feeling well"
+    },
+    {
+      "id": 430,
+      "character": "树",
+      "pinyin": "shù",
+      "korean": "",
+      "definition": "tree; CL:棵[ke1]"
+    },
+    {
+      "id": 431,
+      "character": "数学",
+      "pinyin": "shùxué",
+      "korean": "",
+      "definition": "mathematics; mathematical"
+    },
+    {
+      "id": 432,
+      "character": "刷牙",
+      "pinyin": "shuāyá",
+      "korean": "",
+      "definition": "to brush one's teeth"
+    },
+    {
+      "id": 433,
+      "character": "双",
+      "pinyin": "shuāng",
+      "korean": "",
+      "definition": "two; double; pair; both"
+    },
+    {
+      "id": 434,
+      "character": "水平",
+      "pinyin": "shuǐpíng",
+      "korean": "",
+      "definition": "level (of achievement etc); standard; horizontal"
+    },
+    {
+      "id": 435,
+      "character": "司机",
+      "pinyin": "sījī",
+      "korean": "",
+      "definition": "chauffeur; driver; CL:個|个[ge4]"
+    },
+    {
+      "id": 436,
+      "character": "太阳",
+      "pinyin": "tàiyáng",
+      "korean": "",
+      "definition": "sun; CL:個|个[ge4]"
+    },
+    {
+      "id": 437,
+      "character": "特别",
+      "pinyin": "tèbié",
+      "korean": "",
+      "definition": "especially; special; particular; unusual"
+    },
+    {
+      "id": 438,
+      "character": "疼",
+      "pinyin": "téng",
+      "korean": "",
+      "definition": "(it) hurts; love fondly; ache; pain; sore"
+    },
+    {
+      "id": 439,
+      "character": "提高",
+      "pinyin": "tígāo",
+      "korean": "",
+      "definition": "to raise; to increase"
+    },
+    {
+      "id": 440,
+      "character": "体育",
+      "pinyin": "tǐyù",
+      "korean": "",
+      "definition": "sports; physical education"
+    },
+    {
+      "id": 441,
+      "character": "甜",
+      "pinyin": "tián",
+      "korean": "",
+      "definition": "sweet"
+    },
+    {
+      "id": 442,
+      "character": "条",
+      "pinyin": "tiáo",
+      "korean": "",
+      "definition": "strip; item; article; clause (of law or treaty); classifier for long thin things (ribbon, river, road, trousers etc)"
+    },
+    {
+      "id": 443,
+      "character": "同事",
+      "pinyin": "tóngshì",
+      "korean": "",
+      "definition": "colleague; co-worker; CL:個|个[ge4],位[wei4]"
+    },
+    {
+      "id": 444,
+      "character": "同意",
+      "pinyin": "tóngyì",
+      "korean": "",
+      "definition": "to agree; to consent; to approve"
+    },
+    {
+      "id": 445,
+      "character": "头发",
+      "pinyin": "tóufa",
+      "korean": "",
+      "definition": "hair (on the head)"
+    },
+    {
+      "id": 446,
+      "character": "突然",
+      "pinyin": "tūrán",
+      "korean": "",
+      "definition": "sudden; abrupt; unexpected"
+    },
+    {
+      "id": 447,
+      "character": "图书馆",
+      "pinyin": "túshūguǎn",
+      "korean": "",
+      "definition": "library; CL:家[jia1],個|个[ge4]"
+    },
+    {
+      "id": 448,
+      "character": "腿",
+      "pinyin": "tuǐ",
+      "korean": "",
+      "definition": "leg; CL:條|条[tiao2]"
+    },
+    {
+      "id": 449,
+      "character": "完成",
+      "pinyin": "wánchéng",
+      "korean": "",
+      "definition": "to complete; to accomplish"
+    },
+    {
+      "id": 450,
+      "character": "碗",
+      "pinyin": "wǎn",
+      "korean": "",
+      "definition": "bowl; cup; CL:隻|只[zhi1],個|个[ge4]"
+    },
+    {
+      "id": 451,
+      "character": "万",
+      "pinyin": "wàn",
+      "korean": "",
+      "definition": "ten thousand; a great number"
+    },
+    {
+      "id": 452,
+      "character": "忘记",
+      "pinyin": "wàngjì",
+      "korean": "",
+      "definition": "to forget"
+    },
+    {
+      "id": 453,
+      "character": "为了",
+      "pinyin": "wèile",
+      "korean": "",
+      "definition": "in order to; for the purpose of; so as to"
+    },
+    {
+      "id": 454,
+      "character": "位",
+      "pinyin": "wèi",
+      "korean": "",
+      "definition": "position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 8-bit or 16-bit character)"
+    },
+    {
+      "id": 455,
+      "character": "文化",
+      "pinyin": "wénhuà",
+      "korean": "",
+      "definition": "culture; civilization; cultural; CL:個|个[ge4],種|种[zhong3]"
+    },
+    {
+      "id": 456,
+      "character": "西",
+      "pinyin": "xī",
+      "korean": "",
+      "definition": "west"
+    },
+    {
+      "id": 457,
+      "character": "习惯",
+      "pinyin": "xíguàn",
+      "korean": "",
+      "definition": "habit; custom; usual practice; to be used to; CL:個|个[ge4]"
+    },
+    {
+      "id": 458,
+      "character": "洗手间",
+      "pinyin": "xǐshǒujiān",
+      "korean": "",
+      "definition": "toilet; lavatory; washroom"
+    },
+    {
+      "id": 459,
+      "character": "洗澡",
+      "pinyin": "xǐzǎo",
+      "korean": "",
+      "definition": "to bathe; to take a shower"
+    },
+    {
+      "id": 460,
+      "character": "夏",
+      "pinyin": "xià",
+      "korean": "",
+      "definition": "summer"
+    },
+    {
+      "id": 461,
+      "character": "先",
+      "pinyin": "xiān",
+      "korean": "",
+      "definition": "early; prior; former; in advance; first"
+    },
+    {
+      "id": 462,
+      "character": "相信",
+      "pinyin": "xiāngxìn",
+      "korean": "",
+      "definition": "be convinced (that something is true); believe; to accept sth as true"
+    },
+    {
+      "id": 463,
+      "character": "香蕉",
+      "pinyin": "xiāngjiāo",
+      "korean": "",
+      "definition": "banana; CL:枝[zhi1],根[gen1],個|个[ge4],把[ba3]"
+    },
+    {
+      "id": 464,
+      "character": "向",
+      "pinyin": "xiàng",
+      "korean": "",
+      "definition": "direction; orientation; to face; to turn toward; to; towards; shortly before; formerly; to side with; to be partial to; all along (previously); surname Xiang"
+    },
+    {
+      "id": 465,
+      "character": "像",
+      "pinyin": "xiàng",
+      "korean": "",
+      "definition": "to be like; to resemble; to take after; to be a model; to look like; to seem"
+    },
+    {
+      "id": 466,
+      "character": "小心",
+      "pinyin": "xiǎoxīn",
+      "korean": "",
+      "definition": "to be careful; to take care"
+    },
+    {
+      "id": 467,
+      "character": "校长",
+      "pinyin": "xiàozhǎng",
+      "korean": "",
+      "definition": "(college, university) president; headmaster; CL:個|个[ge4],位[wei4],名[ming2]"
+    },
+    {
+      "id": 468,
+      "character": "新闻",
+      "pinyin": "xīnwén",
+      "korean": "",
+      "definition": "news; CL:條|条[tiao2],個|个[ge4]"
+    },
+    {
+      "id": 469,
+      "character": "新鲜",
+      "pinyin": "xīnxiān",
+      "korean": "",
+      "definition": "fresh (experience, food etc); freshness"
+    },
+    {
+      "id": 470,
+      "character": "信用卡",
+      "pinyin": "xìnyòngkǎ",
+      "korean": "",
+      "definition": "credit card"
+    },
+    {
+      "id": 471,
+      "character": "行李箱",
+      "pinyin": "xínglixiāng",
+      "korean": "",
+      "definition": "suitcase"
+    },
+    {
+      "id": 472,
+      "character": "熊猫",
+      "pinyin": "xióngmāo",
+      "korean": "",
+      "definition": "panda; CL:隻|只[zhi1]"
+    },
+    {
+      "id": 473,
+      "character": "需要",
+      "pinyin": "xūyào",
+      "korean": "",
+      "definition": "to need; to want; to demand; to require; requirement; need; CL:個|个[ge4]"
+    },
+    {
+      "id": 474,
+      "character": "选择",
+      "pinyin": "xuǎnzé",
+      "korean": "",
+      "definition": "to select; to pick; choice; option; alternative"
+    },
+    {
+      "id": 475,
+      "character": "要求",
+      "pinyin": "yāoqiú",
+      "korean": "",
+      "definition": "to request; to require; to state a condition; to demand; to ask; requirement; demand; claim; CL:點|点[dian3],個|个[ge4]"
+    },
+    {
+      "id": 476,
+      "character": "爷爷",
+      "pinyin": "yéye",
+      "korean": "",
+      "definition": "(informal) father's father; paternal grandfather; CL:個|个[ge4]"
+    },
+    {
+      "id": 477,
+      "character": "一般",
+      "pinyin": "yìbān",
+      "korean": "",
+      "definition": "same; ordinary; common; general; generally; in general"
+    },
+    {
+      "id": 478,
+      "character": "一边",
+      "pinyin": "yìbiān",
+      "korean": "",
+      "definition": "one side; either side; on the one hand; on the other hand; doing while"
+    },
+    {
+      "id": 479,
+      "character": "一定",
+      "pinyin": "yídìng",
+      "korean": "",
+      "definition": "surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must"
+    },
+    {
+      "id": 480,
+      "character": "一共",
+      "pinyin": "yígòng",
+      "korean": "",
+      "definition": "altogether"
+    },
+    {
+      "id": 481,
+      "character": "一会儿",
+      "pinyin": "yíhuìr",
+      "korean": "",
+      "definition": "a while"
+    },
+    {
+      "id": 482,
+      "character": "一样",
+      "pinyin": "yíyàng",
+      "korean": "",
+      "definition": "same; like; equal to; the same as; just like"
+    },
+    {
+      "id": 483,
+      "character": "以后",
+      "pinyin": "yǐhòu",
+      "korean": "",
+      "definition": "after; later; afterwards; following; later on; in the future"
+    },
+    {
+      "id": 484,
+      "character": "以前",
+      "pinyin": "yǐqián",
+      "korean": "",
+      "definition": "before; formerly; previous; ago"
+    },
+    {
+      "id": 485,
+      "character": "以为",
+      "pinyin": "yǐwéi",
+      "korean": "",
+      "definition": "to believe; to think; to consider; to be under the impression"
+    },
+    {
+      "id": 486,
+      "character": "已经",
+      "pinyin": "yǐjīng",
+      "korean": "",
+      "definition": "already"
+    },
+    {
+      "id": 487,
+      "character": "银行",
+      "pinyin": "yínháng",
+      "korean": "",
+      "definition": "bank; CL:家[jia1],個|个[ge4]"
+    },
+    {
+      "id": 488,
+      "character": "饮料",
+      "pinyin": "yǐnliào",
+      "korean": "",
+      "definition": "drink; beverage"
+    },
+    {
+      "id": 489,
+      "character": "应该",
+      "pinyin": "yīnggāi",
+      "korean": "",
+      "definition": "ought to; should; must"
+    },
+    {
+      "id": 490,
+      "character": "影响",
+      "pinyin": "yǐngxiǎng",
+      "korean": "",
+      "definition": "an influence; an effect; to influence; to affect (usually adversely); to disturb; CL:股[gu3]"
+    },
+    {
+      "id": 491,
+      "character": "游戏",
+      "pinyin": "yóuxì",
+      "korean": "",
+      "definition": "game; play; CL:場|场[chang3]"
+    },
+    {
+      "id": 492,
+      "character": "有名",
+      "pinyin": "yǒumíng",
+      "korean": "",
+      "definition": "famous; well-known"
+    },
+    {
+      "id": 493,
+      "character": "遇到",
+      "pinyin": "yùdào",
+      "korean": "",
+      "definition": "to meet; to run into; to come across"
+    },
+    {
+      "id": 494,
+      "character": "元",
+      "pinyin": "yuán",
+      "korean": "",
+      "definition": "Chinese monetary unit; dollar; primary; first; the Yuan or Mongol dynasty (1279-1368); surname Yuan"
+    },
+    {
+      "id": 495,
+      "character": "愿意",
+      "pinyin": "yuànyì",
+      "korean": "",
+      "definition": "to wish; to want; ready; willing (to do sth)"
+    },
+    {
+      "id": 496,
+      "character": "月亮",
+      "pinyin": "yuèliang",
+      "korean": "",
+      "definition": "moon"
+    },
+    {
+      "id": 497,
+      "character": "越",
+      "pinyin": "yuè",
+      "korean": "",
+      "definition": "to exceed; to climb over; to surpass; the more... the more"
+    },
+    {
+      "id": 498,
+      "character": "站",
+      "pinyin": "zhàn",
+      "korean": "",
+      "definition": "station; to stand; to halt; to stop; branch of a company or organisation"
+    },
+    {
+      "id": 499,
+      "character": "张",
+      "pinyin": "zhāng",
+      "korean": "",
+      "definition": "to open up; to spread; sheet of paper; classifier for flat objects, sheet; classifier for votes"
+    }
+  ]
+}

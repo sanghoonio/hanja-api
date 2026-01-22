@@ -1,0 +1,13 @@
+[project]
+name = "hanja-api"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pillow>=12.1.0",
+    "svgwrite>=1.4.0",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.32.0",
+    "python-dotenv>=1.0.0",
+]

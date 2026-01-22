@@ -1,0 +1,3161 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "character": "家",
+      "pinyin": "jiā",
+      "korean": "가",
+      "definition": "house, home"
+    },
+    {
+      "id": 1,
+      "character": "加",
+      "pinyin": "jiā",
+      "korean": "가",
+      "definition": "add, increase"
+    },
+    {
+      "id": 2,
+      "character": "可",
+      "pinyin": "kě",
+      "korean": "가",
+      "definition": "possible, can"
+    },
+    {
+      "id": 3,
+      "character": "歌",
+      "pinyin": "gē",
+      "korean": "가",
+      "definition": "song"
+    },
+    {
+      "id": 4,
+      "character": "街",
+      "pinyin": "jiē",
+      "korean": "가",
+      "definition": "street"
+    },
+    {
+      "id": 5,
+      "character": "各",
+      "pinyin": "gè",
+      "korean": "각",
+      "definition": "each, every"
+    },
+    {
+      "id": 6,
+      "character": "角",
+      "pinyin": "jiǎo",
+      "korean": "각",
+      "definition": "angle, horn"
+    },
+    {
+      "id": 7,
+      "character": "間",
+      "pinyin": "jiān",
+      "korean": "간",
+      "definition": "between, space"
+    },
+    {
+      "id": 8,
+      "character": "感",
+      "pinyin": "gǎn",
+      "korean": "감",
+      "definition": "feeling, emotion"
+    },
+    {
+      "id": 9,
+      "character": "甲",
+      "pinyin": "jiǎ",
+      "korean": "갑",
+      "definition": "first, armor"
+    },
+    {
+      "id": 10,
+      "character": "江",
+      "pinyin": "jiāng",
+      "korean": "강",
+      "definition": "river"
+    },
+    {
+      "id": 11,
+      "character": "開",
+      "pinyin": "kāi",
+      "korean": "개",
+      "definition": "open"
+    },
+    {
+      "id": 12,
+      "character": "客",
+      "pinyin": "kè",
+      "korean": "객",
+      "definition": "guest, visitor"
+    },
+    {
+      "id": 13,
+      "character": "更",
+      "pinyin": "gēng",
+      "korean": "갱",
+      "definition": "again, more"
+    },
+    {
+      "id": 14,
+      "character": "居",
+      "pinyin": "jū",
+      "korean": "거",
+      "definition": "reside, live"
+    },
+    {
+      "id": 15,
+      "character": "建",
+      "pinyin": "jiàn",
+      "korean": "건",
+      "definition": "build, establish"
+    },
+    {
+      "id": 16,
+      "character": "傑",
+      "pinyin": "jié",
+      "korean": "걸",
+      "definition": "outstanding"
+    },
+    {
+      "id": 17,
+      "character": "儉",
+      "pinyin": "jiǎn",
+      "korean": "검",
+      "definition": "frugal, thrifty"
+    },
+    {
+      "id": 18,
+      "character": "格",
+      "pinyin": "gé",
+      "korean": "격",
+      "definition": "grid, standard"
+    },
+    {
+      "id": 19,
+      "character": "見",
+      "pinyin": "jiàn",
+      "korean": "견",
+      "definition": "see, meet"
+    },
+    {
+      "id": 20,
+      "character": "決",
+      "pinyin": "jué",
+      "korean": "결",
+      "definition": "decide, determine"
+    },
+    {
+      "id": 21,
+      "character": "兼",
+      "pinyin": "jiān",
+      "korean": "겸",
+      "definition": "concurrently"
+    },
+    {
+      "id": 22,
+      "character": "京",
+      "pinyin": "jīng",
+      "korean": "경",
+      "definition": "capital city"
+    },
+    {
+      "id": 23,
+      "character": "季",
+      "pinyin": "jì",
+      "korean": "계",
+      "definition": "season"
+    },
+    {
+      "id": 24,
+      "character": "古",
+      "pinyin": "gǔ",
+      "korean": "고",
+      "definition": "old, ancient"
+    },
+    {
+      "id": 25,
+      "character": "曲",
+      "pinyin": "qū",
+      "korean": "곡",
+      "definition": "song, curved"
+    },
+    {
+      "id": 26,
+      "character": "困",
+      "pinyin": "kùn",
+      "korean": "곤",
+      "definition": "difficult, tired"
+    },
+    {
+      "id": 27,
+      "character": "骨",
+      "pinyin": "gǔ",
+      "korean": "골",
+      "definition": "bone"
+    },
+    {
+      "id": 28,
+      "character": "公",
+      "pinyin": "gōng",
+      "korean": "공",
+      "definition": "public, fair"
+    },
+    {
+      "id": 29,
+      "character": "果",
+      "pinyin": "guǒ",
+      "korean": "과",
+      "definition": "fruit, result"
+    },
+    {
+      "id": 30,
+      "character": "觀",
+      "pinyin": "guān",
+      "korean": "관",
+      "definition": "view, observe"
+    },
+    {
+      "id": 31,
+      "character": "光",
+      "pinyin": "guāng",
+      "korean": "광",
+      "definition": "light, ray"
+    },
+    {
+      "id": 32,
+      "character": "怪",
+      "pinyin": "guài",
+      "korean": "괴",
+      "definition": "strange, monster"
+    },
+    {
+      "id": 33,
+      "character": "校",
+      "pinyin": "xiào",
+      "korean": "교",
+      "definition": "school"
+    },
+    {
+      "id": 34,
+      "character": "九",
+      "pinyin": "jiǔ",
+      "korean": "구",
+      "definition": "nine"
+    },
+    {
+      "id": 35,
+      "character": "國",
+      "pinyin": "guó",
+      "korean": "국",
+      "definition": "country, nation"
+    },
+    {
+      "id": 36,
+      "character": "軍",
+      "pinyin": "jūn",
+      "korean": "군",
+      "definition": "army, military"
+    },
+    {
+      "id": 37,
+      "character": "屈",
+      "pinyin": "qū",
+      "korean": "굴",
+      "definition": "bend, submit"
+    },
+    {
+      "id": 38,
+      "character": "宮",
+      "pinyin": "gōng",
+      "korean": "궁",
+      "definition": "palace"
+    },
+    {
+      "id": 39,
+      "character": "卷",
+      "pinyin": "juàn",
+      "korean": "권",
+      "definition": "scroll, book"
+    },
+    {
+      "id": 40,
+      "character": "貴",
+      "pinyin": "guì",
+      "korean": "귀",
+      "definition": "expensive, noble"
+    },
+    {
+      "id": 41,
+      "character": "規",
+      "pinyin": "guī",
+      "korean": "규",
+      "definition": "rule, regulation"
+    },
+    {
+      "id": 42,
+      "character": "均",
+      "pinyin": "jūn",
+      "korean": "균",
+      "definition": "equal, even"
+    },
+    {
+      "id": 43,
+      "character": "極",
+      "pinyin": "jí",
+      "korean": "극",
+      "definition": "extreme, pole"
+    },
+    {
+      "id": 44,
+      "character": "近",
+      "pinyin": "jìn",
+      "korean": "근",
+      "definition": "near, close"
+    },
+    {
+      "id": 45,
+      "character": "金",
+      "pinyin": "jīn",
+      "korean": "금",
+      "definition": "gold, metal"
+    },
+    {
+      "id": 46,
+      "character": "急",
+      "pinyin": "jí",
+      "korean": "급",
+      "definition": "urgent, fast"
+    },
+    {
+      "id": 47,
+      "character": "肯",
+      "pinyin": "kěn",
+      "korean": "긍",
+      "definition": "agree, permit"
+    },
+    {
+      "id": 48,
+      "character": "氣",
+      "pinyin": "qì",
+      "korean": "기",
+      "definition": "energy, spirit"
+    },
+    {
+      "id": 49,
+      "character": "吉",
+      "pinyin": "jí",
+      "korean": "길",
+      "definition": "lucky, auspicious"
+    },
+    {
+      "id": 50,
+      "character": "男",
+      "pinyin": "nán",
+      "korean": "남",
+      "definition": "man, male"
+    },
+    {
+      "id": 51,
+      "character": "女",
+      "pinyin": "nǚ",
+      "korean": "녀",
+      "definition": "woman, female"
+    },
+    {
+      "id": 52,
+      "character": "年",
+      "pinyin": "nián",
+      "korean": "년",
+      "definition": "year"
+    },
+    {
+      "id": 53,
+      "character": "農",
+      "pinyin": "nóng",
+      "korean": "농",
+      "definition": "agriculture"
+    },
+    {
+      "id": 54,
+      "character": "多",
+      "pinyin": "duō",
+      "korean": "다",
+      "definition": "many, much"
+    },
+    {
+      "id": 55,
+      "character": "丹",
+      "pinyin": "dān",
+      "korean": "단",
+      "definition": "red, pill"
+    },
+    {
+      "id": 56,
+      "character": "答",
+      "pinyin": "dá",
+      "korean": "답",
+      "definition": "answer, reply"
+    },
+    {
+      "id": 57,
+      "character": "大",
+      "pinyin": "dà",
+      "korean": "대",
+      "definition": "big, large"
+    },
+    {
+      "id": 58,
+      "character": "德",
+      "pinyin": "dé",
+      "korean": "덕",
+      "definition": "virtue, morality"
+    },
+    {
+      "id": 59,
+      "character": "道",
+      "pinyin": "dào",
+      "korean": "도",
+      "definition": "way, path"
+    },
+    {
+      "id": 60,
+      "character": "獨",
+      "pinyin": "dú",
+      "korean": "독",
+      "definition": "alone, single"
+    },
+    {
+      "id": 61,
+      "character": "同",
+      "pinyin": "tóng",
+      "korean": "동",
+      "definition": "same, together"
+    },
+    {
+      "id": 62,
+      "character": "洞",
+      "pinyin": "dòng",
+      "korean": "동",
+      "definition": "cave, hole"
+    },
+    {
+      "id": 63,
+      "character": "頭",
+      "pinyin": "tóu",
+      "korean": "두",
+      "definition": "head"
+    },
+    {
+      "id": 64,
+      "character": "得",
+      "pinyin": "dé",
+      "korean": "득",
+      "definition": "get, obtain"
+    },
+    {
+      "id": 65,
+      "character": "等",
+      "pinyin": "děng",
+      "korean": "등",
+      "definition": "etc., and so on"
+    },
+    {
+      "id": 66,
+      "character": "羅",
+      "pinyin": "luó",
+      "korean": "라",
+      "definition": "net, gauze"
+    },
+    {
+      "id": 67,
+      "character": "樂",
+      "pinyin": "lè, yuè",
+      "korean": "락, 악",
+      "definition": "happy, music"
+    },
+    {
+      "id": 68,
+      "character": "來",
+      "pinyin": "lái",
+      "korean": "래",
+      "definition": "come"
+    },
+    {
+      "id": 69,
+      "character": "冷",
+      "pinyin": "lěng",
+      "korean": "랭",
+      "definition": "cold"
+    },
+    {
+      "id": 70,
+      "character": "力",
+      "pinyin": "lì",
+      "korean": "력",
+      "definition": "power, strength"
+    },
+    {
+      "id": 71,
+      "character": "連",
+      "pinyin": "lián",
+      "korean": "련",
+      "definition": "connect, link"
+    },
+    {
+      "id": 72,
+      "character": "列",
+      "pinyin": "liè",
+      "korean": "렬",
+      "definition": "row, line"
+    },
+    {
+      "id": 73,
+      "character": "令",
+      "pinyin": "lìng",
+      "korean": "령",
+      "definition": "order, command"
+    },
+    {
+      "id": 74,
+      "character": "勞",
+      "pinyin": "láo",
+      "korean": "로",
+      "definition": "labor, work"
+    },
+    {
+      "id": 75,
+      "character": "老",
+      "pinyin": "lǎo",
+      "korean": "로",
+      "definition": "old, aged"
+    },
+    {
+      "id": 76,
+      "character": "利",
+      "pinyin": "lì",
+      "korean": "리",
+      "definition": "benefit, profit"
+    },
+    {
+      "id": 77,
+      "character": "里",
+      "pinyin": "lǐ",
+      "korean": "리",
+      "definition": "village, mile"
+    },
+    {
+      "id": 78,
+      "character": "林",
+      "pinyin": "lín",
+      "korean": "림",
+      "definition": "forest"
+    },
+    {
+      "id": 79,
+      "character": "立",
+      "pinyin": "lì",
+      "korean": "립",
+      "definition": "stand"
+    },
+    {
+      "id": 80,
+      "character": "馬",
+      "pinyin": "mǎ",
+      "korean": "마",
+      "definition": "horse"
+    },
+    {
+      "id": 81,
+      "character": "萬",
+      "pinyin": "wàn",
+      "korean": "만",
+      "definition": "ten thousand"
+    },
+    {
+      "id": 82,
+      "character": "末",
+      "pinyin": "mò",
+      "korean": "말",
+      "definition": "end, final"
+    },
+    {
+      "id": 83,
+      "character": "亡",
+      "pinyin": "wáng",
+      "korean": "망",
+      "definition": "die, perish"
+    },
+    {
+      "id": 84,
+      "character": "每",
+      "pinyin": "měi",
+      "korean": "매",
+      "definition": "every, each"
+    },
+    {
+      "id": 85,
+      "character": "買",
+      "pinyin": "mǎi",
+      "korean": "매",
+      "definition": "buy"
+    },
+    {
+      "id": 86,
+      "character": "面",
+      "pinyin": "miàn",
+      "korean": "면",
+      "definition": "face, surface"
+    },
+    {
+      "id": 87,
+      "character": "名",
+      "pinyin": "míng",
+      "korean": "명",
+      "definition": "name, famous"
+    },
+    {
+      "id": 88,
+      "character": "母",
+      "pinyin": "mǔ",
+      "korean": "모",
+      "definition": "mother"
+    },
+    {
+      "id": 89,
+      "character": "木",
+      "pinyin": "mù",
+      "korean": "목",
+      "definition": "tree, wood"
+    },
+    {
+      "id": 90,
+      "character": "無",
+      "pinyin": "wú",
+      "korean": "무",
+      "definition": "nothing, without"
+    },
+    {
+      "id": 91,
+      "character": "問",
+      "pinyin": "wèn",
+      "korean": "문",
+      "definition": "ask"
+    },
+    {
+      "id": 92,
+      "character": "物",
+      "pinyin": "wù",
+      "korean": "물",
+      "definition": "thing, object"
+    },
+    {
+      "id": 93,
+      "character": "未",
+      "pinyin": "wèi",
+      "korean": "미",
+      "definition": "not yet"
+    },
+    {
+      "id": 94,
+      "character": "米",
+      "pinyin": "mǐ",
+      "korean": "미",
+      "definition": "rice"
+    },
+    {
+      "id": 95,
+      "character": "民",
+      "pinyin": "mín",
+      "korean": "민",
+      "definition": "people, citizen"
+    },
+    {
+      "id": 96,
+      "character": "反",
+      "pinyin": "fǎn",
+      "korean": "반",
+      "definition": "opposite, anti-"
+    },
+    {
+      "id": 97,
+      "character": "半",
+      "pinyin": "bàn",
+      "korean": "반",
+      "definition": "half"
+    },
+    {
+      "id": 98,
+      "character": "發",
+      "pinyin": "fā",
+      "korean": "발",
+      "definition": "send out, develop"
+    },
+    {
+      "id": 99,
+      "character": "方",
+      "pinyin": "fāng",
+      "korean": "방",
+      "definition": "square, direction"
+    },
+    {
+      "id": 100,
+      "character": "法",
+      "pinyin": "fǎ",
+      "korean": "법",
+      "definition": "law, method"
+    },
+    {
+      "id": 101,
+      "character": "別",
+      "pinyin": "bié",
+      "korean": "별",
+      "definition": "separate, other"
+    },
+    {
+      "id": 102,
+      "character": "病",
+      "pinyin": "bìng",
+      "korean": "병",
+      "definition": "sick, disease"
+    },
+    {
+      "id": 103,
+      "character": "保",
+      "pinyin": "bǎo",
+      "korean": "보",
+      "definition": "protect, guarantee"
+    },
+    {
+      "id": 104,
+      "character": "服",
+      "pinyin": "fú",
+      "korean": "복",
+      "definition": "clothes, serve"
+    },
+    {
+      "id": 105,
+      "character": "本",
+      "pinyin": "běn",
+      "korean": "본",
+      "definition": "root, origin"
+    },
+    {
+      "id": 106,
+      "character": "夫",
+      "pinyin": "fū",
+      "korean": "부",
+      "definition": "husband, man"
+    },
+    {
+      "id": 107,
+      "character": "父",
+      "pinyin": "fù",
+      "korean": "부",
+      "definition": "father"
+    },
+    {
+      "id": 108,
+      "character": "北",
+      "pinyin": "běi",
+      "korean": "북",
+      "definition": "north"
+    },
+    {
+      "id": 109,
+      "character": "分",
+      "pinyin": "fēn",
+      "korean": "분",
+      "definition": "divide, minute"
+    },
+    {
+      "id": 110,
+      "character": "不",
+      "pinyin": "bù",
+      "korean": "불",
+      "definition": "not, no"
+    },
+    {
+      "id": 111,
+      "character": "事",
+      "pinyin": "shì",
+      "korean": "사",
+      "definition": "thing, matter"
+    },
+    {
+      "id": 112,
+      "character": "四",
+      "pinyin": "sì",
+      "korean": "사",
+      "definition": "four"
+    },
+    {
+      "id": 113,
+      "character": "死",
+      "pinyin": "sǐ",
+      "korean": "사",
+      "definition": "die, death"
+    },
+    {
+      "id": 114,
+      "character": "山",
+      "pinyin": "shān",
+      "korean": "산",
+      "definition": "mountain"
+    },
+    {
+      "id": 115,
+      "character": "三",
+      "pinyin": "sān",
+      "korean": "삼",
+      "definition": "three"
+    },
+    {
+      "id": 116,
+      "character": "上",
+      "pinyin": "shàng",
+      "korean": "상",
+      "definition": "up, above"
+    },
+    {
+      "id": 117,
+      "character": "生",
+      "pinyin": "shēng",
+      "korean": "생",
+      "definition": "life, birth"
+    },
+    {
+      "id": 118,
+      "character": "西",
+      "pinyin": "xī",
+      "korean": "서",
+      "definition": "west"
+    },
+    {
+      "id": 119,
+      "character": "石",
+      "pinyin": "shí",
+      "korean": "석",
+      "definition": "stone"
+    },
+    {
+      "id": 120,
+      "character": "線",
+      "pinyin": "xiàn",
+      "korean": "선",
+      "definition": "line, wire"
+    },
+    {
+      "id": 121,
+      "character": "雪",
+      "pinyin": "xuě",
+      "korean": "설",
+      "definition": "snow"
+    },
+    {
+      "id": 122,
+      "character": "性",
+      "pinyin": "xìng",
+      "korean": "성",
+      "definition": "nature, gender"
+    },
+    {
+      "id": 123,
+      "character": "成",
+      "pinyin": "chéng",
+      "korean": "성",
+      "definition": "become, succeed"
+    },
+    {
+      "id": 124,
+      "character": "世",
+      "pinyin": "shì",
+      "korean": "세",
+      "definition": "world, generation"
+    },
+    {
+      "id": 125,
+      "character": "小",
+      "pinyin": "xiǎo",
+      "korean": "소",
+      "definition": "small, little"
+    },
+    {
+      "id": 126,
+      "character": "少",
+      "pinyin": "shǎo",
+      "korean": "소",
+      "definition": "few, little"
+    },
+    {
+      "id": 127,
+      "character": "所",
+      "pinyin": "suǒ",
+      "korean": "소",
+      "definition": "place"
+    },
+    {
+      "id": 128,
+      "character": "手",
+      "pinyin": "shǒu",
+      "korean": "수",
+      "definition": "hand"
+    },
+    {
+      "id": 129,
+      "character": "水",
+      "pinyin": "shuǐ",
+      "korean": "수",
+      "definition": "water"
+    },
+    {
+      "id": 130,
+      "character": "時",
+      "pinyin": "shí",
+      "korean": "시",
+      "definition": "time, hour"
+    },
+    {
+      "id": 131,
+      "character": "市",
+      "pinyin": "shì",
+      "korean": "시",
+      "definition": "city, market"
+    },
+    {
+      "id": 132,
+      "character": "食",
+      "pinyin": "shí",
+      "korean": "식",
+      "definition": "eat, food"
+    },
+    {
+      "id": 133,
+      "character": "新",
+      "pinyin": "xīn",
+      "korean": "신",
+      "definition": "new"
+    },
+    {
+      "id": 134,
+      "character": "身",
+      "pinyin": "shēn",
+      "korean": "신",
+      "definition": "body"
+    },
+    {
+      "id": 135,
+      "character": "神",
+      "pinyin": "shén",
+      "korean": "신",
+      "definition": "god, spirit"
+    },
+    {
+      "id": 136,
+      "character": "十",
+      "pinyin": "shí",
+      "korean": "십",
+      "definition": "ten"
+    },
+    {
+      "id": 137,
+      "character": "我",
+      "pinyin": "wǒ",
+      "korean": "아",
+      "definition": "I, me"
+    },
+    {
+      "id": 138,
+      "character": "安",
+      "pinyin": "ān",
+      "korean": "안",
+      "definition": "peace, quiet"
+    },
+    {
+      "id": 139,
+      "character": "案",
+      "pinyin": "àn",
+      "korean": "안",
+      "definition": "case, proposal"
+    },
+    {
+      "id": 140,
+      "character": "夜",
+      "pinyin": "yè",
+      "korean": "야",
+      "definition": "night"
+    },
+    {
+      "id": 141,
+      "character": "弱",
+      "pinyin": "ruò",
+      "korean": "약",
+      "definition": "weak"
+    },
+    {
+      "id": 142,
+      "character": "若",
+      "pinyin": "ruò",
+      "korean": "약",
+      "definition": "if, seem"
+    },
+    {
+      "id": 143,
+      "character": "魚",
+      "pinyin": "yú",
+      "korean": "어",
+      "definition": "fish"
+    },
+    {
+      "id": 144,
+      "character": "言",
+      "pinyin": "yán",
+      "korean": "언",
+      "definition": "word, speech"
+    },
+    {
+      "id": 145,
+      "character": "業",
+      "pinyin": "yè",
+      "korean": "업",
+      "definition": "business, industry"
+    },
+    {
+      "id": 146,
+      "character": "女",
+      "pinyin": "nǚ",
+      "korean": "여",
+      "definition": "woman, female"
+    },
+    {
+      "id": 147,
+      "character": "役",
+      "pinyin": "yì",
+      "korean": "역",
+      "definition": "role, duty"
+    },
+    {
+      "id": 148,
+      "character": "然",
+      "pinyin": "rán",
+      "korean": "연",
+      "definition": "so, thus"
+    },
+    {
+      "id": 149,
+      "character": "熱",
+      "pinyin": "rè",
+      "korean": "열",
+      "definition": "heat, hot"
+    },
+    {
+      "id": 150,
+      "character": "永",
+      "pinyin": "yǒng",
+      "korean": "영",
+      "definition": "forever, eternal"
+    },
+    {
+      "id": 151,
+      "character": "英",
+      "pinyin": "yīng",
+      "korean": "영",
+      "definition": "hero, brave"
+    },
+    {
+      "id": 152,
+      "character": "五",
+      "pinyin": "wǔ",
+      "korean": "오",
+      "definition": "five"
+    },
+    {
+      "id": 153,
+      "character": "午",
+      "pinyin": "wǔ",
+      "korean": "오",
+      "definition": "noon"
+    },
+    {
+      "id": 154,
+      "character": "玉",
+      "pinyin": "yù",
+      "korean": "옥",
+      "definition": "jade, gem"
+    },
+    {
+      "id": 155,
+      "character": "溫",
+      "pinyin": "wēn",
+      "korean": "온",
+      "definition": "warm"
+    },
+    {
+      "id": 156,
+      "character": "王",
+      "pinyin": "wáng",
+      "korean": "왕",
+      "definition": "king"
+    },
+    {
+      "id": 157,
+      "character": "外",
+      "pinyin": "wài",
+      "korean": "외",
+      "definition": "outside, foreign"
+    },
+    {
+      "id": 158,
+      "character": "要",
+      "pinyin": "yào",
+      "korean": "요",
+      "definition": "want, need"
+    },
+    {
+      "id": 159,
+      "character": "用",
+      "pinyin": "yòng",
+      "korean": "용",
+      "definition": "use"
+    },
+    {
+      "id": 160,
+      "character": "右",
+      "pinyin": "yòu",
+      "korean": "우",
+      "definition": "right (direction)"
+    },
+    {
+      "id": 161,
+      "character": "雨",
+      "pinyin": "yǔ",
+      "korean": "우",
+      "definition": "rain"
+    },
+    {
+      "id": 162,
+      "character": "友",
+      "pinyin": "yǒu",
+      "korean": "우",
+      "definition": "friend"
+    },
+    {
+      "id": 163,
+      "character": "雲",
+      "pinyin": "yún",
+      "korean": "운",
+      "definition": "cloud"
+    },
+    {
+      "id": 164,
+      "character": "運",
+      "pinyin": "yùn",
+      "korean": "운",
+      "definition": "transport, luck"
+    },
+    {
+      "id": 165,
+      "character": "元",
+      "pinyin": "yuán",
+      "korean": "원",
+      "definition": "first, primary"
+    },
+    {
+      "id": 166,
+      "character": "遠",
+      "pinyin": "yuǎn",
+      "korean": "원",
+      "definition": "far, distant"
+    },
+    {
+      "id": 167,
+      "character": "月",
+      "pinyin": "yuè",
+      "korean": "월",
+      "definition": "moon, month"
+    },
+    {
+      "id": 168,
+      "character": "位",
+      "pinyin": "wèi",
+      "korean": "위",
+      "definition": "position, rank"
+    },
+    {
+      "id": 169,
+      "character": "有",
+      "pinyin": "yǒu",
+      "korean": "유",
+      "definition": "have, exist"
+    },
+    {
+      "id": 170,
+      "character": "肉",
+      "pinyin": "ròu",
+      "korean": "육",
+      "definition": "meat, flesh"
+    },
+    {
+      "id": 171,
+      "character": "銀",
+      "pinyin": "yín",
+      "korean": "은",
+      "definition": "silver"
+    },
+    {
+      "id": 172,
+      "character": "音",
+      "pinyin": "yīn",
+      "korean": "음",
+      "definition": "sound"
+    },
+    {
+      "id": 173,
+      "character": "飮",
+      "pinyin": "yǐn",
+      "korean": "음",
+      "definition": "drink"
+    },
+    {
+      "id": 174,
+      "character": "意",
+      "pinyin": "yì",
+      "korean": "의",
+      "definition": "meaning, idea"
+    },
+    {
+      "id": 175,
+      "character": "二",
+      "pinyin": "èr",
+      "korean": "이",
+      "definition": "two"
+    },
+    {
+      "id": 176,
+      "character": "以",
+      "pinyin": "yǐ",
+      "korean": "이",
+      "definition": "by means of"
+    },
+    {
+      "id": 177,
+      "character": "人",
+      "pinyin": "rén",
+      "korean": "인",
+      "definition": "person, people"
+    },
+    {
+      "id": 178,
+      "character": "日",
+      "pinyin": "rì",
+      "korean": "일",
+      "definition": "day, sun"
+    },
+    {
+      "id": 179,
+      "character": "一",
+      "pinyin": "yī",
+      "korean": "일",
+      "definition": "one"
+    },
+    {
+      "id": 180,
+      "character": "入",
+      "pinyin": "rù",
+      "korean": "입",
+      "definition": "enter"
+    },
+    {
+      "id": 181,
+      "character": "字",
+      "pinyin": "zì",
+      "korean": "자",
+      "definition": "character, word"
+    },
+    {
+      "id": 182,
+      "character": "自",
+      "pinyin": "zì",
+      "korean": "자",
+      "definition": "self, from"
+    },
+    {
+      "id": 183,
+      "character": "作",
+      "pinyin": "zuò",
+      "korean": "작",
+      "definition": "make, work"
+    },
+    {
+      "id": 184,
+      "character": "長",
+      "pinyin": "cháng, zhǎng",
+      "korean": "장",
+      "definition": "long, chief"
+    },
+    {
+      "id": 185,
+      "character": "才",
+      "pinyin": "cái",
+      "korean": "재",
+      "definition": "talent, ability"
+    },
+    {
+      "id": 186,
+      "character": "再",
+      "pinyin": "zài",
+      "korean": "재",
+      "definition": "again"
+    },
+    {
+      "id": 187,
+      "character": "田",
+      "pinyin": "tián",
+      "korean": "전",
+      "definition": "field, farm"
+    },
+    {
+      "id": 188,
+      "character": "前",
+      "pinyin": "qián",
+      "korean": "전",
+      "definition": "before, front"
+    },
+    {
+      "id": 189,
+      "character": "全",
+      "pinyin": "quán",
+      "korean": "전",
+      "definition": "whole, entire"
+    },
+    {
+      "id": 190,
+      "character": "點",
+      "pinyin": "diǎn",
+      "korean": "점",
+      "definition": "point, dot"
+    },
+    {
+      "id": 191,
+      "character": "店",
+      "pinyin": "diàn",
+      "korean": "점",
+      "definition": "shop, store"
+    },
+    {
+      "id": 192,
+      "character": "接",
+      "pinyin": "jiē",
+      "korean": "접",
+      "definition": "connect, receive"
+    },
+    {
+      "id": 193,
+      "character": "丁",
+      "pinyin": "dīng",
+      "korean": "정",
+      "definition": "fourth"
+    },
+    {
+      "id": 194,
+      "character": "定",
+      "pinyin": "dìng",
+      "korean": "정",
+      "definition": "decide, fix"
+    },
+    {
+      "id": 195,
+      "character": "弟",
+      "pinyin": "dì",
+      "korean": "제",
+      "definition": "younger brother"
+    },
+    {
+      "id": 196,
+      "character": "第",
+      "pinyin": "dì",
+      "korean": "제",
+      "definition": "number, order"
+    },
+    {
+      "id": 197,
+      "character": "朝",
+      "pinyin": "cháo, zhāo",
+      "korean": "조",
+      "definition": "dynasty, morning"
+    },
+    {
+      "id": 198,
+      "character": "足",
+      "pinyin": "zú",
+      "korean": "족",
+      "definition": "foot, enough"
+    },
+    {
+      "id": 199,
+      "character": "存",
+      "pinyin": "cún",
+      "korean": "존",
+      "definition": "exist, keep"
+    },
+    {
+      "id": 200,
+      "character": "終",
+      "pinyin": "zhōng",
+      "korean": "종",
+      "definition": "end, finish"
+    },
+    {
+      "id": 201,
+      "character": "左",
+      "pinyin": "zuǒ",
+      "korean": "좌",
+      "definition": "left (direction)"
+    },
+    {
+      "id": 202,
+      "character": "住",
+      "pinyin": "zhù",
+      "korean": "주",
+      "definition": "live, reside"
+    },
+    {
+      "id": 203,
+      "character": "主",
+      "pinyin": "zhǔ",
+      "korean": "주",
+      "definition": "master, main"
+    },
+    {
+      "id": 204,
+      "character": "竹",
+      "pinyin": "zhú",
+      "korean": "죽",
+      "definition": "bamboo"
+    },
+    {
+      "id": 205,
+      "character": "中",
+      "pinyin": "zhōng",
+      "korean": "중",
+      "definition": "middle, center"
+    },
+    {
+      "id": 206,
+      "character": "重",
+      "pinyin": "zhòng, chóng",
+      "korean": "중",
+      "definition": "heavy, repeat"
+    },
+    {
+      "id": 207,
+      "character": "地",
+      "pinyin": "dì",
+      "korean": "지",
+      "definition": "earth, ground"
+    },
+    {
+      "id": 208,
+      "character": "知",
+      "pinyin": "zhī",
+      "korean": "지",
+      "definition": "know, realize"
+    },
+    {
+      "id": 209,
+      "character": "直",
+      "pinyin": "zhí",
+      "korean": "직",
+      "definition": "straight, direct"
+    },
+    {
+      "id": 210,
+      "character": "眞",
+      "pinyin": "zhēn",
+      "korean": "진",
+      "definition": "real, true"
+    },
+    {
+      "id": 211,
+      "character": "車",
+      "pinyin": "chē",
+      "korean": "차",
+      "definition": "car, vehicle"
+    },
+    {
+      "id": 212,
+      "character": "此",
+      "pinyin": "cǐ",
+      "korean": "차",
+      "definition": "this, here"
+    },
+    {
+      "id": 213,
+      "character": "參",
+      "pinyin": "cān",
+      "korean": "참",
+      "definition": "participate"
+    },
+    {
+      "id": 214,
+      "character": "窓",
+      "pinyin": "chuāng",
+      "korean": "창",
+      "definition": "window"
+    },
+    {
+      "id": 215,
+      "character": "天",
+      "pinyin": "tiān",
+      "korean": "천",
+      "definition": "sky, heaven"
+    },
+    {
+      "id": 216,
+      "character": "川",
+      "pinyin": "chuān",
+      "korean": "천",
+      "definition": "river, stream"
+    },
+    {
+      "id": 217,
+      "character": "草",
+      "pinyin": "cǎo",
+      "korean": "초",
+      "definition": "grass"
+    },
+    {
+      "id": 218,
+      "character": "村",
+      "pinyin": "cūn",
+      "korean": "촌",
+      "definition": "village"
+    },
+    {
+      "id": 219,
+      "character": "秋",
+      "pinyin": "qiū",
+      "korean": "추",
+      "definition": "autumn"
+    },
+    {
+      "id": 220,
+      "character": "春",
+      "pinyin": "chūn",
+      "korean": "춘",
+      "definition": "spring"
+    },
+    {
+      "id": 221,
+      "character": "出",
+      "pinyin": "chū",
+      "korean": "출",
+      "definition": "go out, exit"
+    },
+    {
+      "id": 222,
+      "character": "忠",
+      "pinyin": "zhōng",
+      "korean": "충",
+      "definition": "loyalty"
+    },
+    {
+      "id": 223,
+      "character": "層",
+      "pinyin": "céng",
+      "korean": "층",
+      "definition": "layer, floor"
+    },
+    {
+      "id": 224,
+      "character": "他",
+      "pinyin": "tā",
+      "korean": "타",
+      "definition": "other, another"
+    },
+    {
+      "id": 225,
+      "character": "打",
+      "pinyin": "dǎ",
+      "korean": "타",
+      "definition": "hit, strike"
+    },
+    {
+      "id": 226,
+      "character": "太",
+      "pinyin": "tài",
+      "korean": "태",
+      "definition": "too, very"
+    },
+    {
+      "id": 227,
+      "character": "通",
+      "pinyin": "tōng",
+      "korean": "통",
+      "definition": "pass through, common"
+    },
+    {
+      "id": 228,
+      "character": "特",
+      "pinyin": "tè",
+      "korean": "특",
+      "definition": "special"
+    },
+    {
+      "id": 229,
+      "character": "波",
+      "pinyin": "bō",
+      "korean": "파",
+      "definition": "wave"
+    },
+    {
+      "id": 230,
+      "character": "八",
+      "pinyin": "bā",
+      "korean": "팔",
+      "definition": "eight"
+    },
+    {
+      "id": 231,
+      "character": "便",
+      "pinyin": "biàn, pián",
+      "korean": "편",
+      "definition": "convenient, cheap"
+    },
+    {
+      "id": 232,
+      "character": "平",
+      "pinyin": "píng",
+      "korean": "평",
+      "definition": "flat, even"
+    },
+    {
+      "id": 233,
+      "character": "閉",
+      "pinyin": "bì",
+      "korean": "폐",
+      "definition": "close, shut"
+    },
+    {
+      "id": 234,
+      "character": "風",
+      "pinyin": "fēng",
+      "korean": "풍",
+      "definition": "wind"
+    },
+    {
+      "id": 235,
+      "character": "皮",
+      "pinyin": "pí",
+      "korean": "피",
+      "definition": "skin, leather"
+    },
+    {
+      "id": 236,
+      "character": "下",
+      "pinyin": "xià",
+      "korean": "하",
+      "definition": "down, below"
+    },
+    {
+      "id": 237,
+      "character": "夏",
+      "pinyin": "xià",
+      "korean": "하",
+      "definition": "summer"
+    },
+    {
+      "id": 238,
+      "character": "學",
+      "pinyin": "xué",
+      "korean": "학",
+      "definition": "learn, study"
+    },
+    {
+      "id": 239,
+      "character": "漢",
+      "pinyin": "hàn",
+      "korean": "한",
+      "definition": "Han Chinese"
+    },
+    {
+      "id": 240,
+      "character": "韓",
+      "pinyin": "hán",
+      "korean": "한",
+      "definition": "Korea"
+    },
+    {
+      "id": 241,
+      "character": "海",
+      "pinyin": "hǎi",
+      "korean": "해",
+      "definition": "sea, ocean"
+    },
+    {
+      "id": 242,
+      "character": "行",
+      "pinyin": "xíng, háng",
+      "korean": "행",
+      "definition": "go, walk, row"
+    },
+    {
+      "id": 243,
+      "character": "向",
+      "pinyin": "xiàng",
+      "korean": "향",
+      "definition": "towards, direction"
+    },
+    {
+      "id": 244,
+      "character": "現",
+      "pinyin": "xiàn",
+      "korean": "현",
+      "definition": "appear, present"
+    },
+    {
+      "id": 245,
+      "character": "形",
+      "pinyin": "xíng",
+      "korean": "형",
+      "definition": "shape, form"
+    },
+    {
+      "id": 246,
+      "character": "兄",
+      "pinyin": "xiōng",
+      "korean": "형",
+      "definition": "older brother"
+    },
+    {
+      "id": 247,
+      "character": "火",
+      "pinyin": "huǒ",
+      "korean": "화",
+      "definition": "fire"
+    },
+    {
+      "id": 248,
+      "character": "話",
+      "pinyin": "huà",
+      "korean": "화",
+      "definition": "speech, talk"
+    },
+    {
+      "id": 249,
+      "character": "花",
+      "pinyin": "huā",
+      "korean": "화",
+      "definition": "flower"
+    },
+    {
+      "id": 250,
+      "character": "黃",
+      "pinyin": "huáng",
+      "korean": "황",
+      "definition": "yellow"
+    },
+    {
+      "id": 251,
+      "character": "會",
+      "pinyin": "huì",
+      "korean": "회",
+      "definition": "meet, meeting"
+    },
+    {
+      "id": 252,
+      "character": "效",
+      "pinyin": "xiào",
+      "korean": "효",
+      "definition": "effect, result"
+    },
+    {
+      "id": 253,
+      "character": "後",
+      "pinyin": "hòu",
+      "korean": "후",
+      "definition": "after, behind"
+    },
+    {
+      "id": 254,
+      "character": "休",
+      "pinyin": "xiū",
+      "korean": "휴",
+      "definition": "rest"
+    },
+    {
+      "id": 255,
+      "character": "黑",
+      "pinyin": "hēi",
+      "korean": "흑",
+      "definition": "black"
+    },
+    {
+      "id": 256,
+      "character": "心",
+      "pinyin": "xīn",
+      "korean": "심",
+      "definition": "heart, mind"
+    },
+    {
+      "id": 257,
+      "character": "興",
+      "pinyin": "xīng",
+      "korean": "흥",
+      "definition": "rise, flourish"
+    },
+    {
+      "id": 258,
+      "character": "愛",
+      "pinyin": "ài",
+      "korean": "애",
+      "definition": "love"
+    },
+    {
+      "id": 259,
+      "character": "惡",
+      "pinyin": "è, wù",
+      "korean": "악",
+      "definition": "evil, hate"
+    },
+    {
+      "id": 260,
+      "character": "岸",
+      "pinyin": "àn",
+      "korean": "안",
+      "definition": "shore, bank"
+    },
+    {
+      "id": 261,
+      "character": "眼",
+      "pinyin": "yǎn",
+      "korean": "안",
+      "definition": "eye"
+    },
+    {
+      "id": 262,
+      "character": "岩",
+      "pinyin": "yán",
+      "korean": "암",
+      "definition": "rock"
+    },
+    {
+      "id": 263,
+      "character": "壓",
+      "pinyin": "yā",
+      "korean": "압",
+      "definition": "press, pressure"
+    },
+    {
+      "id": 264,
+      "character": "央",
+      "pinyin": "yāng",
+      "korean": "앙",
+      "definition": "center"
+    },
+    {
+      "id": 265,
+      "character": "仰",
+      "pinyin": "yǎng",
+      "korean": "앙",
+      "definition": "look up"
+    },
+    {
+      "id": 266,
+      "character": "於",
+      "pinyin": "yú",
+      "korean": "어",
+      "definition": "at, in, on"
+    },
+    {
+      "id": 267,
+      "character": "億",
+      "pinyin": "yì",
+      "korean": "억",
+      "definition": "hundred million"
+    },
+    {
+      "id": 268,
+      "character": "憶",
+      "pinyin": "yì",
+      "korean": "억",
+      "definition": "remember, recall"
+    },
+    {
+      "id": 269,
+      "character": "嚴",
+      "pinyin": "yán",
+      "korean": "엄",
+      "definition": "strict, severe"
+    },
+    {
+      "id": 270,
+      "character": "余",
+      "pinyin": "yú",
+      "korean": "여",
+      "definition": "I, me, surplus"
+    },
+    {
+      "id": 271,
+      "character": "亦",
+      "pinyin": "yì",
+      "korean": "역",
+      "definition": "also, too"
+    },
+    {
+      "id": 272,
+      "character": "硏",
+      "pinyin": "yán",
+      "korean": "연",
+      "definition": "research, grind"
+    },
+    {
+      "id": 273,
+      "character": "煙",
+      "pinyin": "yān",
+      "korean": "연",
+      "definition": "smoke, tobacco"
+    },
+    {
+      "id": 274,
+      "character": "沿",
+      "pinyin": "yán",
+      "korean": "연",
+      "definition": "along"
+    },
+    {
+      "id": 275,
+      "character": "鹽",
+      "pinyin": "yán",
+      "korean": "염",
+      "definition": "salt"
+    },
+    {
+      "id": 276,
+      "character": "葉",
+      "pinyin": "yè",
+      "korean": "엽",
+      "definition": "leaf"
+    },
+    {
+      "id": 277,
+      "character": "豫",
+      "pinyin": "yù",
+      "korean": "예",
+      "definition": "in advance"
+    },
+    {
+      "id": 278,
+      "character": "譽",
+      "pinyin": "yù",
+      "korean": "예",
+      "definition": "praise, reputation"
+    },
+    {
+      "id": 279,
+      "character": "誤",
+      "pinyin": "wù",
+      "korean": "오",
+      "definition": "mistake, error"
+    },
+    {
+      "id": 280,
+      "character": "屋",
+      "pinyin": "wū",
+      "korean": "옥",
+      "definition": "house, room"
+    },
+    {
+      "id": 281,
+      "character": "翁",
+      "pinyin": "wēng",
+      "korean": "옹",
+      "definition": "old man"
+    },
+    {
+      "id": 282,
+      "character": "擁",
+      "pinyin": "yōng",
+      "korean": "옹",
+      "definition": "embrace, hug"
+    },
+    {
+      "id": 283,
+      "character": "完",
+      "pinyin": "wán",
+      "korean": "완",
+      "definition": "complete, finish"
+    },
+    {
+      "id": 284,
+      "character": "往",
+      "pinyin": "wǎng",
+      "korean": "왕",
+      "definition": "go, towards"
+    },
+    {
+      "id": 285,
+      "character": "腰",
+      "pinyin": "yāo",
+      "korean": "요",
+      "definition": "waist"
+    },
+    {
+      "id": 286,
+      "character": "浴",
+      "pinyin": "yù",
+      "korean": "욕",
+      "definition": "bathe"
+    },
+    {
+      "id": 287,
+      "character": "欲",
+      "pinyin": "yù",
+      "korean": "욕",
+      "definition": "desire, want"
+    },
+    {
+      "id": 288,
+      "character": "勇",
+      "pinyin": "yǒng",
+      "korean": "용",
+      "definition": "brave, courageous"
+    },
+    {
+      "id": 289,
+      "character": "優",
+      "pinyin": "yōu",
+      "korean": "우",
+      "definition": "excellent, superior"
+    },
+    {
+      "id": 290,
+      "character": "宇",
+      "pinyin": "yǔ",
+      "korean": "우",
+      "definition": "universe, space"
+    },
+    {
+      "id": 291,
+      "character": "郵",
+      "pinyin": "yóu",
+      "korean": "우",
+      "definition": "mail, post"
+    },
+    {
+      "id": 292,
+      "character": "遇",
+      "pinyin": "yù",
+      "korean": "우",
+      "definition": "meet, encounter"
+    },
+    {
+      "id": 293,
+      "character": "慰",
+      "pinyin": "wèi",
+      "korean": "위",
+      "definition": "comfort, console"
+    },
+    {
+      "id": 294,
+      "character": "危",
+      "pinyin": "wēi",
+      "korean": "위",
+      "definition": "danger, crisis"
+    },
+    {
+      "id": 295,
+      "character": "偉",
+      "pinyin": "wěi",
+      "korean": "위",
+      "definition": "great, magnificent"
+    },
+    {
+      "id": 296,
+      "character": "由",
+      "pinyin": "yóu",
+      "korean": "유",
+      "definition": "reason, from"
+    },
+    {
+      "id": 297,
+      "character": "遺",
+      "pinyin": "yí",
+      "korean": "유",
+      "definition": "leave behind, inherit"
+    },
+    {
+      "id": 298,
+      "character": "乳",
+      "pinyin": "rǔ",
+      "korean": "유",
+      "definition": "milk, breast"
+    },
+    {
+      "id": 299,
+      "character": "類",
+      "pinyin": "lèi",
+      "korean": "유",
+      "definition": "type, kind"
+    },
+    {
+      "id": 300,
+      "character": "倫",
+      "pinyin": "lún",
+      "korean": "윤",
+      "definition": "ethics, relationship"
+    },
+    {
+      "id": 301,
+      "character": "恩",
+      "pinyin": "ēn",
+      "korean": "은",
+      "definition": "grace, favor"
+    },
+    {
+      "id": 302,
+      "character": "依",
+      "pinyin": "yī",
+      "korean": "의",
+      "definition": "rely on, according to"
+    },
+    {
+      "id": 303,
+      "character": "義",
+      "pinyin": "yì",
+      "korean": "의",
+      "definition": "justice, righteousness"
+    },
+    {
+      "id": 304,
+      "character": "醫",
+      "pinyin": "yī",
+      "korean": "의",
+      "definition": "doctor, medicine"
+    },
+    {
+      "id": 305,
+      "character": "異",
+      "pinyin": "yì",
+      "korean": "이",
+      "definition": "different, strange"
+    },
+    {
+      "id": 306,
+      "character": "益",
+      "pinyin": "yì",
+      "korean": "익",
+      "definition": "benefit, increase"
+    },
+    {
+      "id": 307,
+      "character": "印",
+      "pinyin": "yìn",
+      "korean": "인",
+      "definition": "print, seal"
+    },
+    {
+      "id": 308,
+      "character": "仁",
+      "pinyin": "rén",
+      "korean": "인",
+      "definition": "benevolence, humanity"
+    },
+    {
+      "id": 309,
+      "character": "任",
+      "pinyin": "rèn",
+      "korean": "임",
+      "definition": "appoint, duty"
+    },
+    {
+      "id": 310,
+      "character": "賃",
+      "pinyin": "lìn",
+      "korean": "임",
+      "definition": "rent, lease"
+    },
+    {
+      "id": 311,
+      "character": "雜",
+      "pinyin": "zá",
+      "korean": "잡",
+      "definition": "miscellaneous"
+    },
+    {
+      "id": 312,
+      "character": "章",
+      "pinyin": "zhāng",
+      "korean": "장",
+      "definition": "chapter, section"
+    },
+    {
+      "id": 313,
+      "character": "將",
+      "pinyin": "jiāng, jiàng",
+      "korean": "장",
+      "definition": "will, general"
+    },
+    {
+      "id": 314,
+      "character": "奬",
+      "pinyin": "jiǎng",
+      "korean": "장",
+      "definition": "encourage, praise"
+    },
+    {
+      "id": 315,
+      "character": "低",
+      "pinyin": "dī",
+      "korean": "저",
+      "definition": "low"
+    },
+    {
+      "id": 316,
+      "character": "著",
+      "pinyin": "zhe, zhù",
+      "korean": "저",
+      "definition": "show, write"
+    },
+    {
+      "id": 317,
+      "character": "赤",
+      "pinyin": "chì",
+      "korean": "적",
+      "definition": "red, bare"
+    },
+    {
+      "id": 318,
+      "character": "敵",
+      "pinyin": "dí",
+      "korean": "적",
+      "definition": "enemy"
+    },
+    {
+      "id": 319,
+      "character": "積",
+      "pinyin": "jī",
+      "korean": "적",
+      "definition": "accumulate"
+    },
+    {
+      "id": 320,
+      "character": "傳",
+      "pinyin": "chuán, zhuàn",
+      "korean": "전",
+      "definition": "transmit, biography"
+    },
+    {
+      "id": 321,
+      "character": "錢",
+      "pinyin": "qián",
+      "korean": "전",
+      "definition": "money"
+    },
+    {
+      "id": 322,
+      "character": "展",
+      "pinyin": "zhǎn",
+      "korean": "전",
+      "definition": "expand, exhibit"
+    },
+    {
+      "id": 323,
+      "character": "節",
+      "pinyin": "jié",
+      "korean": "절",
+      "definition": "festival, joint"
+    },
+    {
+      "id": 324,
+      "character": "切",
+      "pinyin": "qiē, qiè",
+      "korean": "절",
+      "definition": "cut, eager"
+    },
+    {
+      "id": 325,
+      "character": "頂",
+      "pinyin": "dǐng",
+      "korean": "정",
+      "definition": "top, peak"
+    },
+    {
+      "id": 326,
+      "character": "停",
+      "pinyin": "tíng",
+      "korean": "정",
+      "definition": "stop, pause"
+    },
+    {
+      "id": 327,
+      "character": "整",
+      "pinyin": "zhěng",
+      "korean": "정",
+      "definition": "whole, tidy"
+    },
+    {
+      "id": 328,
+      "character": "政",
+      "pinyin": "zhèng",
+      "korean": "정",
+      "definition": "politics, government"
+    },
+    {
+      "id": 329,
+      "character": "庭",
+      "pinyin": "tíng",
+      "korean": "정",
+      "definition": "courtyard"
+    },
+    {
+      "id": 330,
+      "character": "靜",
+      "pinyin": "jìng",
+      "korean": "정",
+      "definition": "quiet, still"
+    },
+    {
+      "id": 331,
+      "character": "製",
+      "pinyin": "zhì",
+      "korean": "제",
+      "definition": "make, manufacture"
+    },
+    {
+      "id": 332,
+      "character": "際",
+      "pinyin": "jì",
+      "korean": "제",
+      "definition": "border, occasion"
+    },
+    {
+      "id": 333,
+      "character": "兆",
+      "pinyin": "zhào",
+      "korean": "조",
+      "definition": "trillion, omen"
+    },
+    {
+      "id": 334,
+      "character": "組",
+      "pinyin": "zǔ",
+      "korean": "조",
+      "definition": "group, organize"
+    },
+    {
+      "id": 335,
+      "character": "操",
+      "pinyin": "cāo",
+      "korean": "조",
+      "definition": "operate, drill"
+    },
+    {
+      "id": 336,
+      "character": "祖",
+      "pinyin": "zǔ",
+      "korean": "조",
+      "definition": "ancestor"
+    },
+    {
+      "id": 337,
+      "character": "尊",
+      "pinyin": "zūn",
+      "korean": "존",
+      "definition": "respect, honor"
+    },
+    {
+      "id": 338,
+      "character": "卒",
+      "pinyin": "zú",
+      "korean": "졸",
+      "definition": "soldier, finish"
+    },
+    {
+      "id": 339,
+      "character": "種",
+      "pinyin": "zhǒng, zhòng",
+      "korean": "종",
+      "definition": "seed, type, plant"
+    },
+    {
+      "id": 340,
+      "character": "宗",
+      "pinyin": "zōng",
+      "korean": "종",
+      "definition": "ancestor, clan"
+    },
+    {
+      "id": 341,
+      "character": "罪",
+      "pinyin": "zuì",
+      "korean": "죄",
+      "definition": "sin, crime"
+    },
+    {
+      "id": 342,
+      "character": "周",
+      "pinyin": "zhōu",
+      "korean": "주",
+      "definition": "week, cycle"
+    },
+    {
+      "id": 343,
+      "character": "酒",
+      "pinyin": "jiǔ",
+      "korean": "주",
+      "definition": "alcohol, wine"
+    },
+    {
+      "id": 344,
+      "character": "株",
+      "pinyin": "zhū",
+      "korean": "주",
+      "definition": "tree trunk, share"
+    },
+    {
+      "id": 345,
+      "character": "衆",
+      "pinyin": "zhòng",
+      "korean": "중",
+      "definition": "crowd, many"
+    },
+    {
+      "id": 346,
+      "character": "增",
+      "pinyin": "zēng",
+      "korean": "증",
+      "definition": "increase"
+    },
+    {
+      "id": 347,
+      "character": "證",
+      "pinyin": "zhèng",
+      "korean": "증",
+      "definition": "prove, evidence"
+    },
+    {
+      "id": 348,
+      "character": "枝",
+      "pinyin": "zhī",
+      "korean": "지",
+      "definition": "branch"
+    },
+    {
+      "id": 349,
+      "character": "持",
+      "pinyin": "chí",
+      "korean": "지",
+      "definition": "hold, maintain"
+    },
+    {
+      "id": 350,
+      "character": "池",
+      "pinyin": "chí",
+      "korean": "지",
+      "definition": "pond, pool"
+    },
+    {
+      "id": 351,
+      "character": "志",
+      "pinyin": "zhì",
+      "korean": "지",
+      "definition": "will, ambition"
+    },
+    {
+      "id": 352,
+      "character": "指",
+      "pinyin": "zhǐ",
+      "korean": "지",
+      "definition": "finger, point"
+    },
+    {
+      "id": 353,
+      "character": "織",
+      "pinyin": "zhī",
+      "korean": "직",
+      "definition": "weave"
+    },
+    {
+      "id": 354,
+      "character": "職",
+      "pinyin": "zhí",
+      "korean": "직",
+      "definition": "duty, job"
+    },
+    {
+      "id": 355,
+      "character": "陣",
+      "pinyin": "zhèn",
+      "korean": "진",
+      "definition": "battle array"
+    },
+    {
+      "id": 356,
+      "character": "質",
+      "pinyin": "zhì",
+      "korean": "질",
+      "definition": "quality, substance"
+    },
+    {
+      "id": 357,
+      "character": "執",
+      "pinyin": "zhí",
+      "korean": "집",
+      "definition": "hold, grasp"
+    },
+    {
+      "id": 358,
+      "character": "集",
+      "pinyin": "jí",
+      "korean": "집",
+      "definition": "gather, collect"
+    },
+    {
+      "id": 359,
+      "character": "徵",
+      "pinyin": "zhēng",
+      "korean": "징",
+      "definition": "levy, recruit"
+    },
+    {
+      "id": 360,
+      "character": "差",
+      "pinyin": "chā, chà",
+      "korean": "차",
+      "definition": "difference, poor"
+    },
+    {
+      "id": 361,
+      "character": "察",
+      "pinyin": "chá",
+      "korean": "찰",
+      "definition": "examine, observe"
+    },
+    {
+      "id": 362,
+      "character": "菜",
+      "pinyin": "cài",
+      "korean": "채",
+      "definition": "vegetable"
+    },
+    {
+      "id": 363,
+      "character": "採",
+      "pinyin": "cǎi",
+      "korean": "채",
+      "definition": "pick, gather"
+    },
+    {
+      "id": 364,
+      "character": "責",
+      "pinyin": "zé",
+      "korean": "책",
+      "definition": "responsibility, blame"
+    },
+    {
+      "id": 365,
+      "character": "妻",
+      "pinyin": "qī",
+      "korean": "처",
+      "definition": "wife"
+    },
+    {
+      "id": 366,
+      "character": "處",
+      "pinyin": "chù, chǔ",
+      "korean": "처",
+      "definition": "place, deal with"
+    },
+    {
+      "id": 367,
+      "character": "尺",
+      "pinyin": "chǐ",
+      "korean": "척",
+      "definition": "ruler, foot (unit)"
+    },
+    {
+      "id": 368,
+      "character": "淺",
+      "pinyin": "qiǎn",
+      "korean": "천",
+      "definition": "shallow"
+    },
+    {
+      "id": 369,
+      "character": "鐵",
+      "pinyin": "tiě",
+      "korean": "철",
+      "definition": "iron"
+    },
+    {
+      "id": 370,
+      "character": "淸",
+      "pinyin": "qīng",
+      "korean": "청",
+      "definition": "clear, pure"
+    },
+    {
+      "id": 371,
+      "character": "請",
+      "pinyin": "qǐng",
+      "korean": "청",
+      "definition": "please, request"
+    },
+    {
+      "id": 372,
+      "character": "體",
+      "pinyin": "tǐ",
+      "korean": "체",
+      "definition": "body, form"
+    },
+    {
+      "id": 373,
+      "character": "初",
+      "pinyin": "chū",
+      "korean": "초",
+      "definition": "beginning, first"
+    },
+    {
+      "id": 374,
+      "character": "招",
+      "pinyin": "zhāo",
+      "korean": "초",
+      "definition": "beckon, recruit"
+    },
+    {
+      "id": 375,
+      "character": "總",
+      "pinyin": "zǒng",
+      "korean": "총",
+      "definition": "total, general"
+    },
+    {
+      "id": 376,
+      "character": "最",
+      "pinyin": "zuì",
+      "korean": "최",
+      "definition": "most"
+    },
+    {
+      "id": 377,
+      "character": "祝",
+      "pinyin": "zhù",
+      "korean": "축",
+      "definition": "wish, celebrate"
+    },
+    {
+      "id": 378,
+      "character": "測",
+      "pinyin": "cè",
+      "korean": "측",
+      "definition": "measure, survey"
+    },
+    {
+      "id": 379,
+      "character": "治",
+      "pinyin": "zhì",
+      "korean": "치",
+      "definition": "govern, treat"
+    },
+    {
+      "id": 380,
+      "character": "親",
+      "pinyin": "qīn",
+      "korean": "친",
+      "definition": "relative, close"
+    },
+    {
+      "id": 381,
+      "character": "七",
+      "pinyin": "qī",
+      "korean": "칠",
+      "definition": "seven"
+    },
+    {
+      "id": 382,
+      "character": "快",
+      "pinyin": "kuài",
+      "korean": "쾌",
+      "definition": "fast, happy"
+    },
+    {
+      "id": 383,
+      "character": "卓",
+      "pinyin": "zhuō",
+      "korean": "탁",
+      "definition": "outstanding, table"
+    },
+    {
+      "id": 384,
+      "character": "彈",
+      "pinyin": "dàn, tán",
+      "korean": "탄",
+      "definition": "bullet, impeach"
+    },
+    {
+      "id": 385,
+      "character": "脫",
+      "pinyin": "tuō",
+      "korean": "탈",
+      "definition": "take off, escape"
+    },
+    {
+      "id": 386,
+      "character": "探",
+      "pinyin": "tàn",
+      "korean": "탐",
+      "definition": "explore, search"
+    },
+    {
+      "id": 387,
+      "character": "湯",
+      "pinyin": "tāng",
+      "korean": "탕",
+      "definition": "soup, hot water"
+    },
+    {
+      "id": 388,
+      "character": "台",
+      "pinyin": "tái",
+      "korean": "태",
+      "definition": "platform, stage"
+    },
+    {
+      "id": 389,
+      "character": "態",
+      "pinyin": "tài",
+      "korean": "태",
+      "definition": "attitude, state"
+    },
+    {
+      "id": 390,
+      "character": "澤",
+      "pinyin": "zé",
+      "korean": "택",
+      "definition": "marsh, benefit"
+    },
+    {
+      "id": 391,
+      "character": "土",
+      "pinyin": "tǔ",
+      "korean": "토",
+      "definition": "earth, soil"
+    },
+    {
+      "id": 392,
+      "character": "痛",
+      "pinyin": "tòng",
+      "korean": "통",
+      "definition": "pain, ache"
+    },
+    {
+      "id": 393,
+      "character": "退",
+      "pinyin": "tuì",
+      "korean": "퇴",
+      "definition": "retreat, withdraw"
+    },
+    {
+      "id": 394,
+      "character": "投",
+      "pinyin": "tóu",
+      "korean": "투",
+      "definition": "throw, cast"
+    },
+    {
+      "id": 395,
+      "character": "派",
+      "pinyin": "pài",
+      "korean": "파",
+      "definition": "faction, send"
+    },
+    {
+      "id": 396,
+      "character": "判",
+      "pinyin": "pàn",
+      "korean": "판",
+      "definition": "judge, decide"
+    },
+    {
+      "id": 397,
+      "character": "板",
+      "pinyin": "bǎn",
+      "korean": "판",
+      "definition": "board, plank"
+    },
+    {
+      "id": 398,
+      "character": "敗",
+      "pinyin": "bài",
+      "korean": "패",
+      "definition": "defeat, lose"
+    },
+    {
+      "id": 399,
+      "character": "片",
+      "pinyin": "piàn",
+      "korean": "편",
+      "definition": "piece, slice"
+    },
+    {
+      "id": 400,
+      "character": "編",
+      "pinyin": "biān",
+      "korean": "편",
+      "definition": "weave, edit"
+    },
+    {
+      "id": 401,
+      "character": "遍",
+      "pinyin": "biàn",
+      "korean": "편",
+      "definition": "all over, everywhere"
+    },
+    {
+      "id": 402,
+      "character": "評",
+      "pinyin": "píng",
+      "korean": "평",
+      "definition": "comment, review"
+    },
+    {
+      "id": 403,
+      "character": "廢",
+      "pinyin": "fèi",
+      "korean": "폐",
+      "definition": "abolish, waste"
+    },
+    {
+      "id": 404,
+      "character": "包",
+      "pinyin": "bāo",
+      "korean": "포",
+      "definition": "wrap, package"
+    },
+    {
+      "id": 405,
+      "character": "抱",
+      "pinyin": "bào",
+      "korean": "포",
+      "definition": "hug, embrace"
+    },
+    {
+      "id": 406,
+      "character": "暴",
+      "pinyin": "bào",
+      "korean": "폭",
+      "definition": "violent, cruel"
+    },
+    {
+      "id": 407,
+      "character": "表",
+      "pinyin": "biǎo",
+      "korean": "표",
+      "definition": "surface, table"
+    },
+    {
+      "id": 408,
+      "character": "品",
+      "pinyin": "pǐn",
+      "korean": "품",
+      "definition": "product, quality"
+    },
+    {
+      "id": 409,
+      "character": "豊",
+      "pinyin": "fēng",
+      "korean": "풍",
+      "definition": "abundant, rich"
+    },
+    {
+      "id": 410,
+      "character": "必",
+      "pinyin": "bì",
+      "korean": "필",
+      "definition": "must, certainly"
+    },
+    {
+      "id": 411,
+      "character": "筆",
+      "pinyin": "bǐ",
+      "korean": "필",
+      "definition": "pen, brush"
+    },
+    {
+      "id": 412,
+      "character": "河",
+      "pinyin": "hé",
+      "korean": "하",
+      "definition": "river"
+    },
+    {
+      "id": 413,
+      "character": "何",
+      "pinyin": "hé",
+      "korean": "하",
+      "definition": "what, how"
+    },
+    {
+      "id": 414,
+      "character": "荷",
+      "pinyin": "hé, hè",
+      "korean": "하",
+      "definition": "lotus, carry"
+    },
+    {
+      "id": 415,
+      "character": "害",
+      "pinyin": "hài",
+      "korean": "해",
+      "definition": "harm, damage"
+    },
+    {
+      "id": 416,
+      "character": "核",
+      "pinyin": "hé",
+      "korean": "핵",
+      "definition": "nucleus, core"
+    },
+    {
+      "id": 417,
+      "character": "幸",
+      "pinyin": "xìng",
+      "korean": "행",
+      "definition": "lucky, fortunate"
+    },
+    {
+      "id": 418,
+      "character": "香",
+      "pinyin": "xiāng",
+      "korean": "향",
+      "definition": "fragrance, incense"
+    },
+    {
+      "id": 419,
+      "character": "虛",
+      "pinyin": "xū",
+      "korean": "허",
+      "definition": "empty, false"
+    },
+    {
+      "id": 420,
+      "character": "許",
+      "pinyin": "xǔ",
+      "korean": "허",
+      "definition": "permit, allow"
+    },
+    {
+      "id": 421,
+      "character": "險",
+      "pinyin": "xiǎn",
+      "korean": "험",
+      "definition": "dangerous, risky"
+    },
+    {
+      "id": 422,
+      "character": "革",
+      "pinyin": "gé",
+      "korean": "혁",
+      "definition": "leather, reform"
+    },
+    {
+      "id": 423,
+      "character": "血",
+      "pinyin": "xuè",
+      "korean": "혈",
+      "definition": "blood"
+    },
+    {
+      "id": 424,
+      "character": "協",
+      "pinyin": "xié",
+      "korean": "협",
+      "definition": "cooperate, assist"
+    },
+    {
+      "id": 425,
+      "character": "刑",
+      "pinyin": "xíng",
+      "korean": "형",
+      "definition": "punishment, penalty"
+    },
+    {
+      "id": 426,
+      "character": "惠",
+      "pinyin": "huì",
+      "korean": "혜",
+      "definition": "favor, benefit"
+    },
+    {
+      "id": 427,
+      "character": "戶",
+      "pinyin": "hù",
+      "korean": "호",
+      "definition": "household, door"
+    },
+    {
+      "id": 428,
+      "character": "號",
+      "pinyin": "hào",
+      "korean": "호",
+      "definition": "number, name"
+    },
+    {
+      "id": 429,
+      "character": "好",
+      "pinyin": "hǎo, hào",
+      "korean": "호",
+      "definition": "good, like"
+    },
+    {
+      "id": 430,
+      "character": "惑",
+      "pinyin": "huò",
+      "korean": "혹",
+      "definition": "doubt, confuse"
+    },
+    {
+      "id": 431,
+      "character": "婚",
+      "pinyin": "hūn",
+      "korean": "혼",
+      "definition": "marry"
+    },
+    {
+      "id": 432,
+      "character": "魂",
+      "pinyin": "hún",
+      "korean": "혼",
+      "definition": "soul, spirit"
+    },
+    {
+      "id": 433,
+      "character": "紅",
+      "pinyin": "hóng",
+      "korean": "홍",
+      "definition": "red"
+    },
+    {
+      "id": 434,
+      "character": "化",
+      "pinyin": "huà",
+      "korean": "화",
+      "definition": "change, transform"
+    },
+    {
+      "id": 435,
+      "character": "和",
+      "pinyin": "hé",
+      "korean": "화",
+      "definition": "harmony, peace"
+    },
+    {
+      "id": 436,
+      "character": "畫",
+      "pinyin": "huà",
+      "korean": "화",
+      "definition": "draw, picture"
+    },
+    {
+      "id": 437,
+      "character": "貨",
+      "pinyin": "huò",
+      "korean": "화",
+      "definition": "goods, currency"
+    },
+    {
+      "id": 438,
+      "character": "活",
+      "pinyin": "huó",
+      "korean": "활",
+      "definition": "live, active"
+    },
+    {
+      "id": 439,
+      "character": "況",
+      "pinyin": "kuàng",
+      "korean": "황",
+      "definition": "situation, moreover"
+    },
+    {
+      "id": 440,
+      "character": "回",
+      "pinyin": "huí",
+      "korean": "회",
+      "definition": "return, circle"
+    },
+    {
+      "id": 441,
+      "character": "懷",
+      "pinyin": "huái",
+      "korean": "회",
+      "definition": "bosom, cherish"
+    },
+    {
+      "id": 442,
+      "character": "橫",
+      "pinyin": "héng",
+      "korean": "횡",
+      "definition": "horizontal, across"
+    },
+    {
+      "id": 443,
+      "character": "候",
+      "pinyin": "hòu",
+      "korean": "후",
+      "definition": "wait, expect"
+    },
+    {
+      "id": 444,
+      "character": "厚",
+      "pinyin": "hòu",
+      "korean": "후",
+      "definition": "thick, generous"
+    },
+    {
+      "id": 445,
+      "character": "訓",
+      "pinyin": "xùn",
+      "korean": "훈",
+      "definition": "teach, instruct"
+    },
+    {
+      "id": 446,
+      "character": "揮",
+      "pinyin": "huī",
+      "korean": "휘",
+      "definition": "wave, command"
+    },
+    {
+      "id": 447,
+      "character": "凶",
+      "pinyin": "xiōng",
+      "korean": "흉",
+      "definition": "fierce, inauspicious"
+    },
+    {
+      "id": 448,
+      "character": "吸",
+      "pinyin": "xī",
+      "korean": "흡",
+      "definition": "absorb, inhale"
+    },
+    {
+      "id": 449,
+      "character": "希",
+      "pinyin": "xī",
+      "korean": "희",
+      "definition": "hope, rare"
+    },
+    {
+      "id": 450,
+      "character": "喜",
+      "pinyin": "xǐ",
+      "korean": "희",
+      "definition": "happy, joy"
+    }
+  ]
+}
