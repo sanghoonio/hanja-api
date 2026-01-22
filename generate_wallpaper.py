@@ -37,7 +37,7 @@ IPHONE_RESOLUTIONS = {
 # Base sizes for 1080x2340 resolution
 BASE_RESOLUTION = (1080, 2340)
 BASE_FONT_SIZES = {
-    "character": 300,
+    "character": 310,
     "korean": 120,
     "pinyin": 72,
     "definition": 60,
@@ -50,10 +50,10 @@ SECONDARY_COLOR = "#B4B4BE"
 
 # Font paths
 SCRIPT_DIR = Path(__file__).parent
-CHINESE_FONT = str(SCRIPT_DIR / "fonts" / "YRDZST-Medium.ttf")
-JAPANESE_FONT = str(SCRIPT_DIR / "fonts" / "NewTegomin-Regular.ttf")
+CHINESE_FONT = str(SCRIPT_DIR / "fonts" / "HinaMincho-Regular.ttf")
+JAPANESE_FONT = str(SCRIPT_DIR / "fonts" / "HinaMincho-Regular.ttf")
 KOREAN_FONT = str(SCRIPT_DIR / "fonts" / "Dongle-Regular.ttf")
-LATIN_FONT = str(SCRIPT_DIR / "fonts" / "YRDZST-Medium.ttf")
+LATIN_FONT = str(SCRIPT_DIR / "fonts" / "WDXLLubrifontSC-Regular.ttf")
 
 # --- Helper Functions ---
 
