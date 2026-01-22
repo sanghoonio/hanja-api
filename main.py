@@ -4,7 +4,6 @@ from fastapi import FastAPI, HTTPException, Query, Header, Depends
 from fastapi.responses import JSONResponse, Response, StreamingResponse
 from typing import Literal, Optional
 from generate_wallpaper import generate_png_bytes, generate_svg_string, generate_xml_string, get_character_data, IPHONE_RESOLUTIONS, BASE_RESOLUTION
-from shortcut_generator import generate_shortcut
 
 # Load environment variables from .env file
 load_dotenv()
@@ -108,61 +107,6 @@ def get_models():
     resolutions (width, height).
     """
     return JSONResponse(content=IPHONE_RESOLUTIONS)
-
-
-@app.get("/shortcut",
-         summary="Generate an Apple Shortcut file",
-         response_description="Returns a .shortcut file for Apple Shortcuts.",
-         dependencies=[Depends(verify_api_key)],
-)
-def get_shortcut(
-    api_url: str = Query(
-        ...,
-        description="Base URL of the deployed API (e.g., https://api.example.com)",
-    ),
-    iphone_model: str = Query(
-        "iphone_13_mini",
-        description=f"Default iPhone model for the shortcut. Available: {', '.join(IPHONE_RESOLUTIONS.keys())}",
-    ),
-    character_list: Literal["hsk", "hanja"] = Query(
-        "hsk",
-        description="Default character set for the shortcut.",
-    ),
-    refresh_rate: Optional[int] = Query(
-        None,
-        description="Auto-refresh interval in minutes. If provided, the shortcut will loop and fetch a new wallpaper at this interval.",
-        ge=1,
-    ),
-):
-    """
-    Generate an Apple Shortcut (.shortcut file) preconfigured to call the API.
-
-    The shortcut will:
-    - Call `/wallpaper` with a random character
-    - Set the result as the device wallpaper (both lock screen and home screen)
-    - Use the parameters baked in based on the query params provided here
-    - If refresh_rate is set, loop indefinitely and refresh the wallpaper at the given interval
-    """
-    if iphone_model not in IPHONE_RESOLUTIONS:
-        raise HTTPException(
-            status_code=400,
-            detail=f"Invalid iPhone model. Please choose from: {', '.join(IPHONE_RESOLUTIONS.keys())}",
-        )
-
-    shortcut_data = generate_shortcut(
-        api_url=api_url,
-        iphone_model=iphone_model,
-        character_list=character_list,
-        refresh_rate=refresh_rate,
-    )
-
-    return Response(
-        content=shortcut_data,
-        media_type="application/octet-stream",
-        headers={
-            "Content-Disposition": f"attachment; filename=hanja_wallpaper_{character_list}.shortcut"
-        },
-    )
 
 
 if __name__ == "__main__":
