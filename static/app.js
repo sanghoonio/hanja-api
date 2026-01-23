@@ -10,7 +10,7 @@ const characterIdInput = document.getElementById('character-id');
 let currentCharacterId = null;
 
 // Get ROOT_PATH from environment or window object
-const ROOT_PATH = window.ROOT_PATH || '';
+const ROOT_PATH = window.ROOT_PATH || 'sam';
 
 // Build API URL with parameters
 function buildApiUrl(outputType, useCurrentId = false) {
@@ -90,7 +90,7 @@ function downloadPng() {
     // Create a fetch request with headers, then convert to blob
     fetch(url, {
         headers: {
-            'x-api-key': 'sam'
+            'x-api-key': ROOT_PATH
         }
     })
     .then(response => response.blob())
