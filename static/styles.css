@@ -1,32 +1,32 @@
 /* Font Declarations - names match SVG font-family values */
 @font-face {
     font-family: 'HinaMincho-Regular';
-    src: url('/hanja-api/fonts/HinaMincho-Regular.ttf') format('truetype');
+    src: url('../fonts/HinaMincho-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'YRDZST-Medium';
-    src: url('/hanja-api/fonts/YRDZST-Medium.ttf') format('truetype');
+    src: url('../fonts/YRDZST-Medium.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Dongle-Light';
-    src: url('/hanja-api/fonts/Dongle-Light.ttf') format('truetype');
+    src: url('../fonts/Dongle-Light.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Dongle-Regular';
-    src: url('/hanja-api/fonts/Dongle-Regular.ttf') format('truetype');
+    src: url('../fonts/Dongle-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Dongle-Bold';
-    src: url('/hanja-api/fonts/Dongle-Bold.ttf') format('truetype');
+    src: url('../fonts/Dongle-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'WDXLLubrifontSC-Regular';
-    src: url('/hanja-api/fonts/WDXLLubrifontSC-Regular.ttf') format('truetype');
+    src: url('../fonts/WDXLLubrifontSC-Regular.ttf') format('truetype');
 }
 
 /* Base Styles */

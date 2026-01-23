@@ -24,7 +24,7 @@ function buildApiUrl(outputType, useCurrentId = false) {
         params.set('character_id', currentCharacterId);
     }
 
-    return `/hanja-api/wallpaper?${params.toString()}`;
+    return `wallpaper?${params.toString()}`;
 }
 
 // Show loading state
