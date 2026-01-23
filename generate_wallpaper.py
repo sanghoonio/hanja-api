@@ -4,6 +4,7 @@ Generate a wallpaper with a Chinese character, Korean equivalent, pinyin, and En
 """
 
 import json
+import os
 import random
 import xml.etree.ElementTree as ET
 from io import BytesIO
@@ -186,23 +187,24 @@ def generate_svg_string(char_data: dict, width: int, height: int, scale_factor: 
     dwg = svgwrite.Drawing(size=(width, height), profile="full", viewBox=f"0 0 {width} {height}")
 
     # Add font-face declarations for web rendering
-    font_style = """
-        @font-face {
+    root_path = os.getenv("ROOT_PATH", "")
+    font_style = f"""
+        @font-face {{
             font-family: 'HinaMincho-Regular';
-            src: url('/hanja-api/fonts/HinaMincho-Regular.ttf') format('truetype');
-        }
-        @font-face {
+            src: url('{root_path}/fonts/HinaMincho-Regular.ttf') format('truetype');
+        }}
+        @font-face {{
             font-family: 'YRDZST-Medium';
-            src: url('/hanja-api/fonts/YRDZST-Medium.ttf') format('truetype');
-        }
-        @font-face {
+            src: url('{root_path}/fonts/YRDZST-Medium.ttf') format('truetype');
+        }}
+        @font-face {{
             font-family: 'Dongle-Regular';
-            src: url('/hanja-api/fonts/Dongle-Regular.ttf') format('truetype');
-        }
-        @font-face {
+            src: url('{root_path}/fonts/Dongle-Regular.ttf') format('truetype');
+        }}
+        @font-face {{
             font-family: 'WDXLLubrifontSC-Regular';
-            src: url('/hanja-api/fonts/WDXLLubrifontSC-Regular.ttf') format('truetype');
-        }
+            src: url('{root_path}/fonts/WDXLLubrifontSC-Regular.ttf') format('truetype');
+        }}
     """
     defs = dwg.defs
     defs.add(dwg.style(font_style))

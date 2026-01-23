@@ -24,7 +24,6 @@ app = FastAPI(
     description="Generate wallpapers or data files with Chinese/Hanja characters.",
     version="1.0.0",
     openapi_version="3.1.0",
-    root_path=os.getenv("ROOT_PATH", "")
 )
 
 # Mount static directories
