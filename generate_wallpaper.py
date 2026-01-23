@@ -50,7 +50,7 @@ SECONDARY_COLOR = "#B4B4BE"
 
 # Font paths
 SCRIPT_DIR = Path(__file__).parent
-CHINESE_FONT = str(SCRIPT_DIR / "fonts" / "HinaMincho-Regular.ttf")
+CHINESE_FONT = str(SCRIPT_DIR / "fonts" / "YRDZST-Medium.ttf")
 JAPANESE_FONT = str(SCRIPT_DIR / "fonts" / "HinaMincho-Regular.ttf")
 KOREAN_FONT = str(SCRIPT_DIR / "fonts" / "Dongle-Regular.ttf")
 LATIN_FONT = str(SCRIPT_DIR / "fonts" / "WDXLLubrifontSC-Regular.ttf")
@@ -183,34 +183,64 @@ def generate_png_bytes(char_data: dict, width: int, height: int, scale_factor: f
 
 def generate_svg_string(char_data: dict, width: int, height: int, scale_factor: float, character_list: str = "hanja") -> str:
     """Generate the wallpaper as SVG string."""
-    dwg = svgwrite.Drawing(size=(width, height), profile="full")
+    dwg = svgwrite.Drawing(size=(width, height), profile="full", viewBox=f"0 0 {width} {height}")
+
+    # Add font-face declarations for web rendering
+    font_style = """
+        @font-face {
+            font-family: 'HinaMincho-Regular';
+            src: url('/hanja-api/fonts/HinaMincho-Regular.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'YRDZST-Medium';
+            src: url('/hanja-api/fonts/YRDZST-Medium.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'Dongle-Regular';
+            src: url('/hanja-api/fonts/Dongle-Regular.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'WDXLLubrifontSC-Regular';
+            src: url('/hanja-api/fonts/WDXLLubrifontSC-Regular.ttf') format('truetype');
+        }
+    """
+    defs = dwg.defs
+    defs.add(dwg.style(font_style))
+
     dwg.add(dwg.rect(insert=(0, 0), size=(width, height), fill=BACKGROUND_COLOR))
 
     # Use appropriate font family for character
     char_font_family = "HinaMincho-Regular" if character_list == "hanja" else "YRDZST-Medium"
 
     center_y = height // 2 - int(100 * scale_factor)
-    y_cursor = center_y
 
-    # Add text elements
+    # Text height ratio: actual rendered height is smaller than font-size (em-box)
+    # These ratios approximate the bbox height / font-size for each font
+    char_height_ratio = 0.65
+    pinyin_height_ratio = 0.7
+    korean_height_ratio = 0.6
+    definition_height_ratio = 0.7
+
+    # Add text elements - spacing matched to PNG generation
     char_font_size = int(BASE_FONT_SIZES["character"] * scale_factor)
-    dwg.add(dwg.text(char_data["character"], insert=(width / 2, y_cursor),
+    char_y = center_y
+    dwg.add(dwg.text(char_data["character"], insert=(width / 2, char_y),
                      font_family=char_font_family, font_size=char_font_size,
                      fill=TEXT_COLOR, text_anchor="middle", dominant_baseline="middle"))
-    y_cursor += char_font_size / 2 + int(100 * scale_factor)
+    y_cursor = char_y + int(char_font_size * char_height_ratio / 2) + int(72 * scale_factor)
 
     pinyin_font_size = int(BASE_FONT_SIZES["pinyin"] * scale_factor)
     dwg.add(dwg.text(char_data["pinyin"], insert=(width / 2, y_cursor),
-                     font_family="Dongle-Light", font_size=pinyin_font_size,
-                     fill=SECONDARY_COLOR, text_anchor="middle", dominant_baseline="middle"))
-    y_cursor += pinyin_font_size + int(40 * scale_factor)
+                     font_family="WDXLLubrifontSC-Regular", font_size=pinyin_font_size,
+                     fill=SECONDARY_COLOR, text_anchor="middle", dominant_baseline="hanging"))
+    y_cursor += int(pinyin_font_size * pinyin_height_ratio) + int(90 * scale_factor)
 
     if char_data.get("korean"):
         korean_font_size = int(BASE_FONT_SIZES["korean"] * scale_factor)
         dwg.add(dwg.text(char_data["korean"], insert=(width / 2, y_cursor),
                          font_family="Dongle-Regular", font_size=korean_font_size,
-                         fill=SECONDARY_COLOR, text_anchor="middle", dominant_baseline="middle"))
-        y_cursor += korean_font_size + int(20 * scale_factor)
+                         fill=SECONDARY_COLOR, text_anchor="middle", dominant_baseline="hanging"))
+        y_cursor += int(korean_font_size * korean_height_ratio) + int(70 * scale_factor)
 
     definition_font_size = int(BASE_FONT_SIZES["definition"] * scale_factor)
     max_text_width = int(width * 0.85)
@@ -219,8 +249,8 @@ def generate_svg_string(char_data: dict, width: int, height: int, scale_factor: 
 
     for line in definition_lines:
         dwg.add(dwg.text(line, insert=(width / 2, y_cursor),
-                         font_family="Dongle-Light", font_size=definition_font_size,
-                         fill=SECONDARY_COLOR, text_anchor="middle", dominant_baseline="middle"))
+                         font_family="WDXLLubrifontSC-Regular", font_size=definition_font_size,
+                         fill=SECONDARY_COLOR, text_anchor="middle", dominant_baseline="hanging"))
         y_cursor += line_height
 
     return dwg.tostring()

@@ -1,7 +1,8 @@
 import os
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query, Header, Depends
-from fastapi.responses import JSONResponse, Response, StreamingResponse
+from fastapi.responses import JSONResponse, Response, StreamingResponse, FileResponse
+from fastapi.staticfiles import StaticFiles
 from typing import Literal, Optional
 from generate_wallpaper import generate_png_bytes, generate_svg_string, generate_xml_string, get_character_data, IPHONE_RESOLUTIONS, BASE_RESOLUTION
 
@@ -25,6 +26,16 @@ app = FastAPI(
     openapi_version="3.1.0",
     root_path="/hanja-api"
 )
+
+# Mount static directories
+app.mount("/fonts", StaticFiles(directory="fonts"), name="fonts")
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+
+@app.get("/", response_class=FileResponse, include_in_schema=False)
+def root():
+    """Serve the wallpaper generator page."""
+    return FileResponse("static/index.html")
 
 @app.get("/wallpaper",
          summary="Generate a character wallpaper or data file",

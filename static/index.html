@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hanja Wallpaper Generator</title>
+    <link rel="preload" href="/hanja-api/fonts/HinaMincho-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/hanja-api/fonts/YRDZST-Medium.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/hanja-api/fonts/Dongle-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/hanja-api/fonts/WDXLLubrifontSC-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="/hanja-api/static/styles.css">
+</head>
+<body>
+    <div class="container-fluid vh-100">
+        <div class="row h-100">
+            <!-- Left Column: Preview -->
+            <div class="col-md-6 d-flex flex-column align-items-center justify-content-center preview-column">
+                <div id="preview-container">
+                    <div class="loading-placeholder">
+                        <div class="spinner-border text-light" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+                <button id="download-btn" class="btn btn-outline-light mt-4">
+                    <i data-lucide="download"></i>
+                    <span>Download PNG</span>
+                </button>
+            </div>
+
+            <!-- Right Column: Controls -->
+            <div class="col-md-6 d-flex flex-column align-items-center justify-content-center controls-column">
+                <h1 class="header-title">漢字</h1>
+                <p class="subtitle">Wallpaper Generator</p>
+
+                <form id="wallpaper-form" class="w-75">
+                    <!-- Character Set -->
+                    <div class="mb-4">
+                        <label for="character-set" class="form-label">Character Set</label>
+                        <select id="character-set" class="form-select">
+                            <option value="hanja" selected>Hanja (Korean)</option>
+                            <option value="hsk">HSK (Chinese)</option>
+                        </select>
+                    </div>
+
+                    <!-- iPhone Model -->
+                    <div class="mb-4">
+                        <label for="iphone-model" class="form-label">iPhone Model</label>
+                        <select id="iphone-model" class="form-select">
+                            <optgroup label="iPhone 16">
+                                <option value="iphone_16">iPhone 16</option>
+                                <option value="iphone_16_plus">iPhone 16 Plus</option>
+                                <option value="iphone_16_pro">iPhone 16 Pro</option>
+                                <option value="iphone_16_pro_max">iPhone 16 Pro Max</option>
+                            </optgroup>
+                            <optgroup label="iPhone 15">
+                                <option value="iphone_15">iPhone 15</option>
+                                <option value="iphone_15_plus">iPhone 15 Plus</option>
+                                <option value="iphone_15_pro">iPhone 15 Pro</option>
+                                <option value="iphone_15_pro_max">iPhone 15 Pro Max</option>
+                            </optgroup>
+                            <optgroup label="iPhone 14">
+                                <option value="iphone_14">iPhone 14</option>
+                                <option value="iphone_14_plus">iPhone 14 Plus</option>
+                                <option value="iphone_14_pro">iPhone 14 Pro</option>
+                                <option value="iphone_14_pro_max">iPhone 14 Pro Max</option>
+                            </optgroup>
+                            <optgroup label="iPhone 13">
+                                <option value="iphone_13_mini" selected>iPhone 13 mini</option>
+                                <option value="iphone_13">iPhone 13</option>
+                                <option value="iphone_13_pro">iPhone 13 Pro</option>
+                                <option value="iphone_13_pro_max">iPhone 13 Pro Max</option>
+                            </optgroup>
+                        </select>
+                    </div>
+
+                    <!-- Character ID -->
+                    <div class="mb-4">
+                        <label for="character-id" class="form-label">Character ID (optional)</label>
+                        <input type="number" id="character-id" class="form-control"
+                               min="0" placeholder="Random if empty">
+                        <div class="form-text">Leave empty for a random character</div>
+                    </div>
+
+                    <!-- Refresh Button -->
+                    <button type="button" id="refresh-btn" class="btn btn-primary w-100">
+                        <i data-lucide="refresh-cw"></i>
+                        <span>Generate New</span>
+                    </button>
+                </form>
+
+                <div class="mt-4">
+                    <a href="docs" class="text-light me-3">API Docs</a>
+                    <a href="redoc" class="text-light">ReDoc</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/hanja-api/static/app.js"></script>
+</body>
+</html>
