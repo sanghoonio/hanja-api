@@ -9,6 +9,9 @@ const characterIdInput = document.getElementById('character-id');
 // Current state
 let currentCharacterId = null;
 
+// Get ROOT_PATH from environment or window object
+const ROOT_PATH = window.ROOT_PATH || '';
+
 // Build API URL with parameters
 function buildApiUrl(outputType, useCurrentId = false) {
     const params = new URLSearchParams({
@@ -16,14 +19,14 @@ function buildApiUrl(outputType, useCurrentId = false) {
         character_list: characterSetSelect.value,
         iphone_model: iphoneModelSelect.value
     });
-
+    
     const charId = characterIdInput.value.trim();
     if (charId !== '') {
         params.set('character_id', charId);
     } else if (useCurrentId && currentCharacterId !== null) {
         params.set('character_id', currentCharacterId);
     }
-
+    
     return `wallpaper?${params.toString()}`;
 }
 
@@ -43,19 +46,25 @@ async function fetchPreview() {
     showLoading();
     const url = buildApiUrl('svg');
     console.log('Fetching SVG from:', url);
-
+    
     try {
-        const response = await fetch(url);
+        const response = await fetch(url, {
+            headers: {
+                'x-api-key': ROOT_PATH
+            }
+        });
+        
         console.log('Response status:', response.status);
-
+        
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-
+        
         const svgText = await response.text();
         console.log('SVG length:', svgText.length);
+        
         previewContainer.innerHTML = svgText;
-
+        
         // Extract character ID from the response headers
         const contentDisposition = response.headers.get('Content-Disposition');
         if (contentDisposition) {
@@ -77,12 +86,28 @@ async function fetchPreview() {
 // Download PNG
 function downloadPng() {
     const url = buildApiUrl('png', true);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `wallpaper_${characterSetSelect.value}_${currentCharacterId || 'random'}.png`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
+    
+    // Create a fetch request with headers, then convert to blob
+    fetch(url, {
+        headers: {
+            'x-api-key': 'sam'
+        }
+    })
+    .then(response => response.blob())
+    .then(blob => {
+        const blobUrl = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = blobUrl;
+        link.download = `wallpaper_${characterSetSelect.value}_${currentCharacterId || 'random'}.png`;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+        URL.revokeObjectURL(blobUrl);
+    })
+    .catch(error => {
+        console.error('Error downloading PNG:', error);
+        alert('Failed to download PNG');
+    });
 }
 
 // Event Listeners
