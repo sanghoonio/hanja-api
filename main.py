@@ -11,7 +11,7 @@ load_dotenv()
 
 # API Key Authentication
 API_KEY = os.getenv("API_KEY")
-
+ROOT_PATH = os.getenv("ROOT_PATH", "")
 
 async def verify_api_key(x_api_key: Optional[str] = Header(None)):
     """Verify API key if one is configured."""
@@ -24,6 +24,7 @@ app = FastAPI(
     description="Generate wallpapers or data files with Chinese/Hanja characters.",
     version="1.0.0",
     openapi_version="3.1.0",
+    root_path=ROOT_PATH
 )
 
 # Mount static directories
